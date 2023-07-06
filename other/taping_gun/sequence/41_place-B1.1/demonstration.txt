@@ -1,0 +1,7 @@
+0.136151075363:stop,NC
+1.33944606781:movement,NC
+1.64054608345:Opening,-yaw orientation
+2.09311199188:rotation,NC
+2.2429049015:stop,NC
+2.69467902184:movement,NC
+3.75011086464:stop,NC

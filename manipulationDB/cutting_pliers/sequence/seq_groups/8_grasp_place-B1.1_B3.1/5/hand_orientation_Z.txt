@@ -1,0 +1,3 @@
+0.00114512443542:+yaw orientation
+3.17455601692:-pitch orientation
+5.13138413429:+yaw orientation

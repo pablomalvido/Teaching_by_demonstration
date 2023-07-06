@@ -1,0 +1,4 @@
+0.000105857849121:No
+4.57019281387:-rollRotation
+5.47228097916:+rollRotation
+6.22418284416:-yawRotation

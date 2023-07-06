@@ -1,0 +1,10 @@
+Stop
+Neg
+Pos
+Pos: Fast
+Pos
+Stop
+Pos
+Stop
+Neg
+Pos

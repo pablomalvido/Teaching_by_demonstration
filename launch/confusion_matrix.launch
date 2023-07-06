@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="screwdriver"/> 
+    <node name="cross_validation_all" pkg="teaching_pkg" type="cross_validation_all_models.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+</launch>  

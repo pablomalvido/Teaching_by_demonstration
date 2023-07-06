@@ -1,0 +1,5 @@
+grasp
+place
+tape
+grasp, place
+grasp, tape, place

@@ -1,0 +1,8 @@
+Z Ne,C
+No contact,-pitch orientation
+Closing,-pitch orientation
+Z St,NC
++rollRotation,NC
+Opening,+yaw orientation
+Z Po,NC
+Z St,NC

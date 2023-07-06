@@ -1,0 +1,9 @@
+Stop rot at -roll orientation,NC
+XY Movement,NC
+Z Ne,NC
+XY Stop,NC
+Z St,NC
+Contact,-roll orientation
+XY Movement,C
+No contact,+pitch orientation
+Z Po,NC

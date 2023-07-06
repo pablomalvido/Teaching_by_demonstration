@@ -1,0 +1,64 @@
+0.000300168991089:Stop rot at +yaw orientation,NC
+1.56422901154:Z Ne,NC
+2.16813611984:-yawRotation,NC
+2.46682906151:Z St,NC
+3.06869506836:Stop rot at +yaw orientation,NC
+3.37004899979:Contact,+yaw orientation
+5.02717995644:No contact,+yaw orientation
+5.62863898277:Contact,+yaw orientation
+6.23004102707:Z Po,C
+7.13411808014:Z St,C
+8.63967704773:Z Ne,C
+9.39315700531:Z St,C
+9.99448800087:XY Movement,C
+11.0486140251:No contact,+roll orientation
+11.1991739273:Contact,+roll orientation
+11.3513519764:+rollRotation,C
+11.6504249573:XY Stop,C
+11.9523611069:XY Movement,C
+12.4041919708:-rollRotation,C
+12.8561990261:XY Stop,C
+12.8564238548:No contact,+roll orientation
+13.1563491821:XY Movement,NC
+13.1579890251:Z Po,NC
+13.1571760178:Contact,+roll orientation
+13.45966506:Stop rot at +pitch orientation,C
+13.7576341629:Z St,C
+14.2096910477:XY Stop,C
+14.6599111557:XY Movement,C
+15.1123030186:No contact,+pitch orientation
+15.4157869816:-rollRotation,NC
+15.7139480114:Z Po,NC
+16.166369915:Contact,+pitch orientation
+16.3167140484:Z St,C
+16.7694220543:XY Stop,C
+16.9196400642:XY Movement,C
+16.9200370312:+rollRotation,C
+17.5230269432:No contact,+pitch orientation
+17.674175024:-rollRotation,NC
+17.9746940136:Z Po,NC
+18.2767691612:Stop rot at +pitch orientation,NC
+18.5762250423:Z St,NC
+18.7280189991:Contact,+pitch orientation
+19.0272920132:XY Stop,C
+19.0276231766:+rollRotation,C
+19.3293781281:XY Movement,C
+19.6304519176:No contact,+pitch orientation
+20.2327511311:-rollRotation,NC
+20.3813180923:XY Stop,NC
+20.98346591:Contact,+roll orientation
+21.434841156:Stop rot at +roll orientation,C
+21.4344890118:Z Po,C
+22.1868140697:XY Movement,C
+22.3371491432:Z St,C
+22.7883710861:+yawRotation,C
+22.9383809566:Z Ne,C
+23.0884430408:XY Stop,C
+23.390707016:-yawRotation,C
+23.6914319992:No contact,+roll orientation
+23.8410661221:Z St,NC
+23.9919559956:Stop rot at +roll orientation,NC
+24.4430191517:+rollRotation,NC
+24.4420521259:Z Po,NC
+25.3451030254:+yawRotation,NC
+25.4948711395:Z St,NC

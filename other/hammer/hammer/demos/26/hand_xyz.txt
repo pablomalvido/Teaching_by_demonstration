@@ -1,0 +1,30 @@
+Stop,Stop,Stop
+Stop,Stop,Neg
+Stop,Stop,Pos
+Stop,Stop,Neg
+Stop,Stop,Pos
+Stop,Stop,Pos: Fast
+Stop,Stop,Neg
+Stop,Stop,Neg: Fast
+Stop,Stop,Neg
+Stop,Stop,Pos
+Stop,Stop,Pos: Fast
+Stop,Stop,Neg
+Stop,Stop,Neg: Fast
+Stop,Stop,Pos
+Stop,Stop,Pos: Fast
+Stop,Stop,Neg: Fast
+Stop,Stop,Neg
+Stop,Stop,Pos: Fast
+Stop,Stop,Pos
+Stop,Stop,Neg: Fast
+Stop,Stop,Neg
+Stop,Stop,Pos
+Stop,Stop,Neg: Fast
+Stop,Stop,Neg
+Stop,Stop,Pos
+Stop,Stop,Neg: Fast
+Neg,Stop,Neg
+Neg,Stop,Pos
+Stop,Stop,Pos
+Stop,Stop,Stop

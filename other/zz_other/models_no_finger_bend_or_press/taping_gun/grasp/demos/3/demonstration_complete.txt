@@ -1,0 +1,13 @@
+Z Ne,NC
+Closing,+yaw orientation
+-yawRotation,NC
+Z St,NC
+Contact,+yaw orientation
+-rollRotation,C
+No contact,-pitch orientation
+Contact,-pitch orientation
+Z Po,C
++yawRotation,C
+Z St,C
++pitchRotation,C
+Stop rot at +yaw orientation,C

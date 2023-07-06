@@ -1,0 +1,9 @@
+stop,NC
+movement,NC
+stop,NC
+rotation,NC
+Closing,+pitch orientation
+Contact,+pitch orientation
+movement,C
+rotation,C
+stop,C

@@ -1,0 +1,2 @@
+-rollRotation,C
+Stop rot at -pitch orientation,C

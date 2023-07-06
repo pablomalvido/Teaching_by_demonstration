@@ -1,0 +1,19 @@
+stop,NC
+Opening,-roll orientation
+Closing,-roll orientation
+Contact,-roll orientation
+Opening,-roll orientation
+No contact,-roll orientation
+Closing,-roll orientation
+Contact,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+No contact,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation

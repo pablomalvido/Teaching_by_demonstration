@@ -1,0 +1,7 @@
+Z Ne,NC
+Z St,NC
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+-rollRotation,C

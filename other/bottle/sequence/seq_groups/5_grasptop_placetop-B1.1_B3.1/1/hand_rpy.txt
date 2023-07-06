@@ -1,0 +1,7 @@
+0.000690937042236:Stop,Stop,Stop
+1.66697788239:Pos,Stop,Neg
+3.32225489616:Neg,Stop,Pos: Fast
+3.77471494675:Pos,Neg,Pos
+4.82964992523:Pos,Stop,Stop
+5.27855992317:Pos,Stop,Neg
+7.23703098297:Neg: Fast,Stop,Pos

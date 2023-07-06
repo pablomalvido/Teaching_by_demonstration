@@ -1,0 +1,28 @@
+Z Ne,NC
+Z St,NC
+XY Movement,NC
+-pitchRotation,NC
+XY Stop,NC
+XY Movement,NC
+-rollRotation,NC
+XY Stop,NC
+Stop rot at +pitch orientation,NC
+XY Movement,NC
++yawRotation,NC
+-rollRotation,NC
+XY Stop,NC
+Stop rot at +pitch orientation,NC
+XY Movement,NC
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+-rollRotation,NC
+XY Stop,NC
+Stop rot at +pitch orientation,NC
+XY Movement,NC
+Closing,+pitch orientation
+XY Stop,NC
+-pitchRotation,NC
+Stop rot at +yaw orientation,NC
+Z Po,NC
+Opening,Random orientation

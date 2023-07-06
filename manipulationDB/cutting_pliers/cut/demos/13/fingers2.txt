@@ -1,0 +1,5 @@
+Bending0,ClosedFalse,Touch0,StrongFalse,BentAndTouch0
+Bending3,ClosedTrue,Touch0,StrongFalse,BentAndTouch0
+Bending3,ClosedTrue,Touch0,StrongFalse,BentAndTouch0
+Bending1,ClosedFalse,Touch0,StrongFalse,BentAndTouch0
+Bending0,ClosedFalse,Touch0,StrongFalse,BentAndTouch0

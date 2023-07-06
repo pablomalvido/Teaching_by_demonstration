@@ -1,0 +1,8 @@
+Z Ne,NC
+Opening,+pitch orientation
+Z St,NC
+Closing,+pitch orientation
+Opening,+pitch orientation
+Closing,+pitch orientation
+-rollRotation,NC
+Stop rot at Random orientation,NC

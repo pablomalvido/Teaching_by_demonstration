@@ -1,0 +1,8 @@
+grasp
+place
+screw_loose
+screw_tight
+grasp, place
+grasp, screw_loose, place
+grasp, screw_tight, place
+grasp, screw_loose, screw_tight, place

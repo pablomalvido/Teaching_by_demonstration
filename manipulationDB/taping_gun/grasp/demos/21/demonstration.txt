@@ -1,0 +1,7 @@
+stop,NC
+movement,NC
+Contact,+yaw orientation
+No contact,+yaw orientation
+rotation,NC
+Contact,+pitch orientation
+stop,C

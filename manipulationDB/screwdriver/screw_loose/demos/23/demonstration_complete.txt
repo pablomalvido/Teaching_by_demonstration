@@ -1,0 +1,6 @@
+Contact,-pitch orientation
+No contact,-pitch orientation
+XY Stop,NC
+XY Movement,NC
+XY Stop,NC
+Stop rot at -roll orientation,NC

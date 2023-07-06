@@ -1,0 +1,20 @@
+Stop rot at Random orientation,C
+Z Ne,C
+No contact,Random orientation
+Z St,NC
+Contact,Random orientation
+No contact,Random orientation
+XY Movement,NC
++rollRotation,NC
+-rollRotation,NC
+XY Stop,NC
+Stop rot at Random orientation,NC
+XY Movement,NC
++rollRotation,NC
+-rollRotation,NC
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+XY Stop,NC
+Z Po,NC
++pitchRotation,NC

@@ -1,0 +1,11 @@
+0.000110149383545:Stop rot at +yaw orientation,NC
+2.025370121:Closing,+yaw orientation
+2.17632198334:Contact,+yaw orientation
+2.77772498131:Z Po,C
+3.53043699265:Z St,C
+3.68052911758:XY Movement,C
+4.73574090004:XY Stop,C
+7.29509401321:No contact,+yaw orientation
+7.59567308426:Z Po,NC
+7.59654307365:Opening,+yaw orientation
+8.34817409515:Z St,NC

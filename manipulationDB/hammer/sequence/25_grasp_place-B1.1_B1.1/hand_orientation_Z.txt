@@ -1,0 +1,6 @@
+0.000280857086182:-roll orientation
+0.922850847244:+pitch orientation
+1.37415480614:-roll orientation
+2.42748689651:+pitch orientation
+3.02979493141:-yaw orientation
+4.68535089493:+pitch orientation long

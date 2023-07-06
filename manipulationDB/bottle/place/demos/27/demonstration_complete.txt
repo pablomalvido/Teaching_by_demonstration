@@ -1,0 +1,5 @@
+Z Ne,C
+Z St,C
+XY Movement,C
+No contact,+roll orientation
+Opening,+roll orientation

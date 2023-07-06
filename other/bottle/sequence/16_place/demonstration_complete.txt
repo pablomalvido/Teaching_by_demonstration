@@ -1,0 +1,8 @@
+0.825906991959:Opening,+roll orientation
+1.73239588737:Closing,+roll orientation
+2.63625001907:Z Ne,C
+3.5424580574:Z St,C
+4.14434909821:XY Movement,C
+4.14480495453:No contact,+roll orientation
+4.59826397896:Opening,+roll orientation
+4.74831414223:XY Stop,NC

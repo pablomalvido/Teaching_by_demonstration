@@ -1,0 +1,18 @@
+0.000119924545288:Stop rot at -pitch orientation,NC
+1.1428539753:+rollRotation,NC
+1.74525380135:Contact,+yaw orientation
+1.895622015:XY Stop,C
+2.19651198387:No contact,+yaw orientation
+2.34634208679:XY Movement,NC
+2.34655189514:Contact,+yaw orientation
+2.34669709206:Z Po,C
+2.64779186249:-rollRotation,C
+2.79790306091:Z St,C
+2.94841098785:XY Stop,C
+3.09937310219:XY Movement,C
+3.24979496002:Stop rot at -pitch orientation,C
+3.40053582191:No contact,-pitch orientation
+4.30383014679:XY Stop,NC
+4.90567588806:+rollRotation,NC
+5.50675106049:XY Movement,NC
+6.26043796539:-rollRotation,NC

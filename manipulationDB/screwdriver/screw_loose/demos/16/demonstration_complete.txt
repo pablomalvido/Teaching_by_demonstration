@@ -1,0 +1,7 @@
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+XY Movement,NC
+Stop rot at +yaw orientation,NC

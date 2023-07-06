@@ -1,0 +1,11 @@
+Stop rot at +yaw orientation,NC
+XY Movement,NC
+Z Ne,NC
+XY Stop,NC
+Z St,NC
+-rollRotation,NC
+Closing,+pitch orientation
+Contact,+pitch orientation
+Z Po,C
++yawRotation,C
+Z St,C

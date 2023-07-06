@@ -1,0 +1,11 @@
+Stop rot at -roll orientation,C
+-yawRotation,C
+Stop rot at +yaw orientation,C
+No contact,+yaw orientation
+-yawRotation,NC
+Z Po,NC
+XY Movement,NC
+Opening,+yaw orientation
+-rollRotation,NC
+XY Stop,NC
+Z St,NC

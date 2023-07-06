@@ -1,0 +1,14 @@
+Start:
+0.7,0.0,0.2,0.1,
+Transition:
+0.0,1.0,0.0,0.0,
+0.0,0.0,0.0,0.0,
+0.0,1.0,0.0,0.0,
+0.0,1.0,0.0,0.0,
+Map:
+-rollorientationlong:2
+-pitchorientation:3
++yaworientation:1
+-rollorientation:0
+n_states:
+2

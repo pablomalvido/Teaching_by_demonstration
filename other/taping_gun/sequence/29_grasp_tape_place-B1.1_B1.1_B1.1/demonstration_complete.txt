@@ -1,0 +1,14 @@
+6.91413879395e-05:Stop rot at -pitch orientation,NC
+0.982445001602:XY Movement,NC
+1.7355530262:+rollRotation,NC
+1.88559889793:XY Stop,NC
+3.54146909714:-rollRotation,NC
+4.29396319389:Stop rot at -pitch orientation,NC
+5.79922294617:Contact,-pitch orientation
+7.75447010994:No contact,-pitch orientation
+8.50738501549:+rollRotation,NC
+9.71137905121:Stop rot at -roll orientation,NC
+10.6133110523:XY Movement,NC
+10.9149050713:-rollRotation,NC
+11.5169751644:Stop rot at -roll orientation,NC
+11.8181009293:XY Stop,NC

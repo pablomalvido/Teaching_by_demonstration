@@ -1,0 +1,8 @@
+Start:
+1.0,
+1.0,
+Transition:
+0.0,
+-
+Map:
+No:0

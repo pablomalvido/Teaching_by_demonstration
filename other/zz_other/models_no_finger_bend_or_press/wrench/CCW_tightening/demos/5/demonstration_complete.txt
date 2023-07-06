@@ -1,0 +1,19 @@
+Z Ne,C
+Z St,C
+No contact,Random orientation
+XY Movement,NC
++yawRotation,NC
+Contact,+yaw orientation
+XY Stop,C
+No contact,+yaw orientation
+XY Movement,NC
+-yawRotation,NC
+XY Stop,NC
+-rollRotation,NC
+XY Movement,NC
++rollRotation,NC
+XY Stop,NC
+Closing,+yaw orientation
+Z Po,NC
++pitchRotation,NC
+Opening,+yaw orientation

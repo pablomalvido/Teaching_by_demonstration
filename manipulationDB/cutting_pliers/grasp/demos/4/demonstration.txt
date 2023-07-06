@@ -1,0 +1,12 @@
+stop,NC
+movement,NC
+Opening,-roll orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+stop,NC
+Opening,+yaw orientation
+movement,NC
+rotation,NC
+Closing,-roll orientation
+stop,NC

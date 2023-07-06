@@ -1,0 +1,4 @@
+No contact,+roll orientation
++pitchRotation,NC
+Stop rot at +roll orientation,NC
+XY Stop,NC

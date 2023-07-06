@@ -1,0 +1,8 @@
+Z Ne,C
+Opening,-roll orientation
+XY Movement,C
+Z Po,C
+No contact,-roll orientation
+-pitchRotation,NC
+Z St,NC
+XY Stop,NC

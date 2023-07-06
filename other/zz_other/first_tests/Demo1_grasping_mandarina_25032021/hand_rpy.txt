@@ -1,0 +1,54 @@
+pitch: Pos
+yaw: Pos
+roll: Neg
+yaw: -0.0194403281462 displacement
+yaw: Neg
+pitch: 0.0914469275404 displacement
+pitch: Neg
+yaw: Neg: Fast
+pitch: 0.0832335550885 displacement
+pitch: Pos
+yaw: Neg
+roll: -0.375535487413 displacement
+roll: Stop
+yaw: -0.188814380798 displacement
+yaw: Pos: Fast
+roll: Neg
+pitch: -0.0222380325616 displacement
+pitch: Neg
+yaw: Pos
+roll: -0.0750217493899 displacement
+roll: Stop
+yaw: 0.0929563839914 displacement
+yaw: Neg
+roll: Neg
+pitch: -0.0875569785237 displacement
+pitch: Stop
+roll: -0.0339383427928 displacement
+roll: Pos
+yaw: -0.051173399051 displacement
+yaw: Stop
+roll: 0 displacement
+roll: Stop
+yaw: Neg
+pitch: Pos
+yaw: Neg: Fast
+yaw: Neg
+yaw: -0.391638991651 displacement
+yaw: Pos
+roll: Neg
+pitch: 0.216108530092 displacement
+pitch: Neg
+yaw: Pos: Fast
+yaw: Pos
+roll: -0.0623441276341 displacement
+roll: Pos
+pitch: 0.100826842742 displacement
+pitch: Pos: Fast
+roll: Pos: Fast
+pitch: -0.027637337741 displacement
+pitch: Neg
+yaw: 0.473638513304 displacement
+yaw: Stop
+roll: 0.27279278039 displacement
+roll: Stop

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="hammer"/> 
+    <node name="compare_sequence_classify" pkg="teaching_pkg" type="segmentation_classification_sequences.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+</launch>  

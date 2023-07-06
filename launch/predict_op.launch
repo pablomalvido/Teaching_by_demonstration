@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="bottle"/> 
+    <arg name="operation" default="grasp"/> 
+    <arg name="n" default="1"/>
+    <node name="cross_validation_all" pkg="teaching_pkg" type="predict_operation.py" output="screen">
+	<param name="object" value="$(arg object)" />
+        <param name="operation" value="$(arg operation)" />
+        <param name="n" value="$(arg n)" />
+    </node>
+</launch>  

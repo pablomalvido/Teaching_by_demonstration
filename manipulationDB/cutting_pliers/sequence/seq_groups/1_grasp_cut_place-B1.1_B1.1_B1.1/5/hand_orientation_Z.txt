@@ -1,0 +1,3 @@
+0.00100302696228:+pitch orientation
+3.76950407028:+pitch orientation long
+11.9009280205:Random orientation

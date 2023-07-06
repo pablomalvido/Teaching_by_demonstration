@@ -1,0 +1,13 @@
+7.29560852051e-05:No
+1.27148509026:+rollRotation
+2.32468605042:No
+5.03335499763:-rollRotation
+5.93703103065:+rollRotation
+6.38926410675:-rollRotation
+6.99187302589:+rollRotation
+7.29259896278:-rollRotation
+8.04593896866:+rollRotation
+8.64813995361:-rollRotation
+9.55210614204:+rollRotation
+10.3058431149:No
+11.6600840092:-rollRotation

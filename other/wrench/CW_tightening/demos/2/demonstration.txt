@@ -1,0 +1,17 @@
+stop,C
+No contact,Random orientation
+movement,NC
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC

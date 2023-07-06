@@ -1,0 +1,16 @@
+Opening,-pitch orientation
+Closing,-pitch orientation
+-rollRotation,NC
++rollRotation,NC
+Z Ne,NC
+-rollRotation,NC
+Z Po,NC
++rollRotation,NC
+Z St,NC
+Stop rot at Random orientation,NC
+-rollRotation,NC
+Contact,-pitch orientation
+No contact,-yaw orientation
+Z Po,C
++rollRotation,NC
+Z St,NC

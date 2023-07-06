@@ -1,0 +1,8 @@
+Z Po,C
+Z St,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Z Ne,C
+-rollRotation,C
+Z St,C
+Stop rot at -roll orientation,C

@@ -1,0 +1,10 @@
+Opening,-pitch orientation
+Closing,-pitch orientation
+Opening,-pitch orientation
+Closing,-pitch orientation
+Contact,-pitch orientation
+Opening,-pitch orientation
+Closing,-pitch orientation
+Z Po,C
+Z St,C
+Stop rot at -pitch orientation,C

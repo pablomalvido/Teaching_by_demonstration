@@ -1,0 +1,1 @@
+Bending:0,Closed:False,Touch:2,Strong:False,BentAndTouch:0

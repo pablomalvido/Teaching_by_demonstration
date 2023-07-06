@@ -1,0 +1,18 @@
+XY Movement,NC
+-pitchRotation,NC
++pitchRotation,NC
+XY Stop,NC
+XY Movement,NC
++rollRotation,NC
++pitchRotation,NC
+XY Stop,NC
+XY Movement,NC
+Stop rot at +pitch orientation,NC
+-pitchRotation,NC
+XY Stop,NC
+Closing,+pitch orientation
+XY Movement,NC
+Stop rot at +pitch orientation,NC
+Opening,+pitch orientation
+XY Stop,NC
+Z Po,NC

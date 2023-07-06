@@ -1,0 +1,5 @@
+middle1 --> 2,
+middle2 --> 1,
+thumb1 --> 0,
+pinky1 --> 0,middle1 --> 0,
+index1 --> 0,

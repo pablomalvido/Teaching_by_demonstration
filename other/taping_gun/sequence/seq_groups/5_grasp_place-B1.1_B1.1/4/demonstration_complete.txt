@@ -1,0 +1,17 @@
+0.000101804733276:Stop rot at +yaw orientation,NC
+1.22243905067:Z Ne,NC
+1.52376890182:-yawRotation,NC
+2.12501096725:Z St,NC
+2.2759809494:Closing,+yaw orientation
+2.57790493965:Z Po,NC
+2.72850179672:-rollRotation,NC
+3.02934193611:-pitchRotation,NC
+3.48017406464:Z St,NC
+3.78177380562:Stop rot at -pitch orientation,NC
+4.38454699516:Z Ne,NC
+4.68530893326:+rollRotation,NC
+5.44003987312:Z St,NC
+5.74214482307:Stop rot at +yaw orientation,NC
+5.74196791649:Z Po,NC
+6.3460688591:Opening,+yaw orientation
+6.79892897606:Z St,NC

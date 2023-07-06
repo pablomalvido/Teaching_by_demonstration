@@ -1,0 +1,9 @@
+XY Movement,NC
+XY Stop,NC
+-yawRotation,NC
+Z Po,NC
+Stop rot at +yaw orientation,NC
+-rollRotation,NC
+Z St,NC
+-pitchRotation,NC
++rollRotation,NC

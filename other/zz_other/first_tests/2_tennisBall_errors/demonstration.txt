@@ -1,0 +1,34 @@
+stop,NC
+movement,NC
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC
+stop,NC
+movement,NC
+stop,NC
+movement,NC
+stop,C
+Closing,-pitch orientation
+Contact,-pitch orientation
+movement,C
+stop,C
+movement,C
+stop,C
+movement,C
+rotation,C
+rotation,C
+stop,C
+movement,C
+stop,C
+movement,C
+stop,C
+movement,C
+stop,C
+movement,C
+No contact,-pitch orientation
+Opening,-pitch orientation
+rotation,NC
+stop,NC
+movement,NC

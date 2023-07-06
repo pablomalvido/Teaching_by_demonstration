@@ -1,0 +1,6 @@
+Stop rot at +yaw orientation,NC
+Closing,Random orientation
+Contact,Random orientation
+Z Po,C
+Opening,Random orientation
+Z St,C

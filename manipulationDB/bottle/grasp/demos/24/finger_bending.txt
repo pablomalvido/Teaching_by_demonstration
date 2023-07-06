@@ -1,0 +1,3 @@
+index0 --> 1,
+thumb0 --> 2,
+index1 --> 2,

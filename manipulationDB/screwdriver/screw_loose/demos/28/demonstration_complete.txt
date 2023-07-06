@@ -1,0 +1,18 @@
+XY Movement,NC
+XY Stop,NC
+Closing,-pitch orientation
+Opening,-pitch orientation
+-yawRotation,NC
+Stop rot at +yaw orientation,NC
+Closing,-roll orientation
+-yawRotation,NC
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Stop rot at +pitch orientation,NC
+XY Movement,NC
+XY Stop,NC

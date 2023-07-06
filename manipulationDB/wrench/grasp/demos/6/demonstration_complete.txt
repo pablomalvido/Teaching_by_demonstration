@@ -1,0 +1,8 @@
+Z Ne,NC
+Z St,NC
+Closing,Random orientation
+Z Po,NC
+Contact,Random orientation
+-rollRotation,C
+Z St,C
+Stop rot at +roll orientation,C

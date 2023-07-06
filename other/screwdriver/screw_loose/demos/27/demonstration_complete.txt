@@ -1,0 +1,22 @@
+Stop rot at +pitch orientation,NC
+Opening,+pitch orientation
+Closing,+pitch orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+XY Movement,NC
+Z Po,NC
+Opening,-pitch orientation
+Z St,NC
+XY Stop,NC

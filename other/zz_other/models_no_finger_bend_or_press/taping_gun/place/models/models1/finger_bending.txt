@@ -1,0 +1,6 @@
+Start:
+
+Transition:
+Map:
+n_states:
+0

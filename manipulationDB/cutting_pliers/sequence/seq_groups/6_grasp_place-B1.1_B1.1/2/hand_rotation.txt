@@ -1,0 +1,5 @@
+0.000108003616333:No
+1.17118191719:+rollRotation
+2.52454900742:-rollRotation
+3.57848286629:+rollRotation
+5.2331969738:-rollRotation

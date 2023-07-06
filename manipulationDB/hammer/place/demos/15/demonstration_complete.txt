@@ -1,0 +1,11 @@
+Opening,-pitch orientation
+XY Movement,C
+Z Ne,C
+XY Stop,C
+Z St,C
+Z Po,C
+XY Movement,C
+No contact,+yaw orientation
++pitchRotation,NC
+XY Stop,NC
+Z St,NC

@@ -1,0 +1,6 @@
+Opening,-pitch orientation
+No contact,-pitch orientation
+-yawRotation,NC
+Closing,-pitch orientation
+Stop rot at -pitch orientation,NC
+Opening,-pitch orientation

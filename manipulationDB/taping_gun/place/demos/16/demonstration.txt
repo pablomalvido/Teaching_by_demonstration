@@ -1,0 +1,10 @@
+stop,C
+movement,C
+movement,C
+rotation,C
+No contact,-roll orientation
+Contact,-roll orientation
+stop,C
+movement,C
+No contact,-roll orientation
+rotation,NC

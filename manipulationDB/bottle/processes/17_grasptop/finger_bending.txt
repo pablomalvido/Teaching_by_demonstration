@@ -1,0 +1,3 @@
+index:0 --> 1,middle:0 --> 1,
+middle:1 --> 2,
+pinky:0 --> 1,

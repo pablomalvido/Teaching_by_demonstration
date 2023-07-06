@@ -1,0 +1,55 @@
+Z Po,C
+Z Ne,C
+Z Po,C
+-pitchRotation,C
+XY Movement,C
+Opening,-roll orientation
+No contact,-roll orientation
+Z Ne,NC
+XY Stop,NC
+XY Movement,NC
+Z Po,NC
+Z Ne,NC
+Z Po,NC
+Contact,-roll orientation
+XY Stop,C
+Z Ne,C
+Z Po,C
+Stop rot at -roll orientation,C
+XY Movement,C
+Z Ne,C
+No contact,-roll orientation
+Z Po,NC
+-yawRotation,NC
+XY Stop,NC
+Contact,-roll orientation
+XY Movement,NC
+Z Ne,NC
+No contact,-roll orientation
+Z Po,NC
+Contact,-roll orientation
+Z Ne,NC
++yawRotation,C
+Z Po,C
+No contact,-roll orientation
+-yawRotation,NC
+Z Ne,NC
+Contact,-roll orientation
+No contact,-roll orientation
+Z Po,NC
+Z Ne,NC
++yawRotation,NC
+Contact,-roll orientation
+XY Stop,C
+No contact,-roll orientation
+XY Movement,NC
+Z Po,NC
+Z Ne,NC
+Contact,-roll orientation
+No contact,-roll orientation
+Z Po,NC
+Contact,-roll orientation
+XY Stop,C
+Z St,C
+No contact,-roll orientation
+Stop rot at -roll orientation,NC

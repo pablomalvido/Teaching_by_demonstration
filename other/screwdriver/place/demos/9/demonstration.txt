@@ -1,0 +1,6 @@
+stop,C
+movement,C
+stop,C
+No contact,Random orientation
+movement,NC
+stop,NC

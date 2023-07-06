@@ -1,0 +1,28 @@
+stop,C
+Opening,-roll orientation
+Closing,-roll orientation
+No contact,-roll orientation
+Contact,+yaw orientation
+No contact,-roll orientation
+Opening,-roll orientation
+Contact,-roll orientation
+No contact,-roll orientation
+Closing,-roll orientation
+Contact,-roll orientation
+Opening,-roll orientation
+No contact,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Contact,-roll orientation
+Closing,-roll orientation
+No contact,-roll orientation
+Opening,-roll orientation
+Contact,-roll orientation
+No contact,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation

@@ -1,0 +1,12 @@
+1.71447181702:XY Movement,NC
+2.61834788322:XY Stop,NC
+2.61968493462:Closing,-roll orientation
+2.77047491074:Contact,-roll orientation
+3.21974182129:Z Po,C
+4.42450690269:Z St,C
+7.13741898537:Z Ne,C
+7.89160895348:Opening,-roll orientation
+8.1923148632:Z St,C
+8.79409885406:No contact,-roll orientation
+8.94359779358:XY Movement,NC
+9.69487786293:XY Stop,NC

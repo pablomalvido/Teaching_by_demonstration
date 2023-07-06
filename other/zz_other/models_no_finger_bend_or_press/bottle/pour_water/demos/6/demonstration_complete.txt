@@ -1,0 +1,10 @@
+Closing,Random orientation
+Opening,Random orientation
++rollRotation,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Stop rot at +yaw orientation,C
+Closing,+yaw orientation
+Z Ne,C
+-rollRotation,C
+Z St,C

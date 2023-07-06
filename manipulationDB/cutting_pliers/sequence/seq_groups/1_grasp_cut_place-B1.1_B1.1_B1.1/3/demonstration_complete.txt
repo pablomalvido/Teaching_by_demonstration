@@ -1,0 +1,17 @@
+0.000366926193237:Stop rot at +pitch orientation,NC
+1.22357988358:Z Ne,NC
+2.12619400024:Z St,NC
+2.42945814133:Closing,+pitch orientation
+2.43006110191:Contact,+pitch orientation
+3.03066897392:No contact,+pitch orientation
+3.93385505676:Opening,+pitch orientation
+5.13376283646:Z Po,NC
+5.58471393585:Z St,NC
+7.0905880928:Closing,+pitch orientation
+7.3922970295:Opening,+pitch orientation
+7.84106588364:Z Ne,NC
+7.84208893776:+rollRotation,NC
+8.59392094612:Z St,NC
+9.64809584618:Stop rot at +pitch orientation,NC
+9.79799485207:Z Po,NC
+10.549738884:Z St,NC

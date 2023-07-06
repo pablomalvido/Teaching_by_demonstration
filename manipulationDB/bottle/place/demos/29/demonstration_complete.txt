@@ -1,0 +1,6 @@
+Closing,-roll orientation
+Opening,-roll orientation
+Z Ne,C
+Z St,C
+No contact,-roll orientation
+XY Stop,NC

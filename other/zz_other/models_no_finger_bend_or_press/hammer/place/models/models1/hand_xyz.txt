@@ -1,0 +1,12 @@
+Start:
+1.0,0.0,0.0,
+Transition:
+0.0,0.714285714286,0.285714285714,
+1.0,0.0,0.0,
+1.0,0.0,0.0,
+Map:
+Stop,Stop,Pos:2
+Stop,Stop,Stop:0
+Stop,Stop,Neg:1
+n_states:
+3

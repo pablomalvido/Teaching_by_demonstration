@@ -1,0 +1,12 @@
+Z Ne,NC
+Z St,NC
+Contact,+roll orientation
+No contact,+roll orientation
+Z Po,NC
+Contact,+roll orientation
+Z St,C
+-yawRotation,C
+No contact,+roll orientation
+Z Po,NC
+Stop rot at +roll orientation,NC
+Z St,NC

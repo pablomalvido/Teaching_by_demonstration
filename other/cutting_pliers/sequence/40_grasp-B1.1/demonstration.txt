@@ -1,0 +1,6 @@
+0.127065181732:stop,NC
+0.126764059067:stop,NC
+0.878836154938:movement,NC
+1.78353214264:Closing,+pitch orientation
+2.5380358696:rotation,NC
+2.83847999573:stop,NC

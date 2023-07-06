@@ -1,0 +1,11 @@
+XY Movement,NC
+Z Ne,NC
+Z St,NC
+XY Stop,NC
+Contact,-roll orientation
+XY Movement,C
+Z Po,C
+No contact,-roll orientation
+XY Stop,NC
+Z St,NC
+Stop rot at -roll orientation,NC

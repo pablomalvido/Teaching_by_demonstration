@@ -1,0 +1,15 @@
+Start:
+0.7,0.3,
+0.0,1.0,
+Transition:
+0.0,0.0,
+0.0,0.0,
+-
+0.0,0.0,
+0.0,0.0,
+-
+Map:
++rollRotation:0
+No:1
+n_states:
+1

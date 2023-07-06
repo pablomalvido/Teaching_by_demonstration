@@ -1,0 +1,9 @@
+Opening,+yaw orientation
+Z Ne,NC
+XY Movement,NC
+XY Stop,NC
+Z St,NC
+Closing,+pitch orientation
+Contact,+pitch orientation
+Z Po,C
+Z St,C

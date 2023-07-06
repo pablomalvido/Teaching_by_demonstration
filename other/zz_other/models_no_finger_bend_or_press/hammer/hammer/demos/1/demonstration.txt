@@ -1,0 +1,22 @@
+stop,C
+movement,C
+rotation,C
+Opening,-pitch orientation
+stop,C
+rotation,C
+movement,C
+rotation,C
+stop,C
+rotation,C
+movement,C
+stop,C
+Closing,-pitch orientation
+Opening,-pitch orientation
+Closing,-pitch orientation
+Opening,-pitch orientation
+rotation,C
+Closing,-pitch orientation
+rotation,C
+Opening,-pitch orientation
+Closing,-pitch orientation
+Opening,-pitch orientation

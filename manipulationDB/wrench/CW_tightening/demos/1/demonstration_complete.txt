@@ -1,0 +1,32 @@
+XY Movement,NC
+XY Stop,NC
+-yawRotation,NC
+XY Movement,NC
++yawRotation,NC
+XY Stop,NC
+XY Movement,NC
+Stop rot at +pitch orientation,NC
+-yawRotation,NC
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+Closing,+roll orientation
+XY Stop,NC
+Contact,+pitch orientation
+XY Movement,C
+Opening,+pitch orientation
+-rollRotation,C
+XY Stop,C
+No contact,+roll orientation
+XY Movement,NC
+Closing,+roll orientation
+Contact,+roll orientation
++rollRotation,C
+XY Stop,C
+Stop rot at +pitch orientation,C
+XY Movement,C
+Opening,+pitch orientation
++pitchRotation,C
+XY Stop,C
+Stop rot at +roll orientation,C
+Closing,+roll orientation

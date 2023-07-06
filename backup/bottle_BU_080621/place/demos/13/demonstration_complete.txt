@@ -1,0 +1,7 @@
+Stop rot at +roll orientation,C
+Z Ne,C
+Z St,C
+XY Movement,C
+Z Po,C
+No contact,+roll orientation
+Z St,NC

@@ -1,0 +1,16 @@
+0.000113964080811:Stop rot at -roll orientation,NC
+4.24138998985:Opening,+pitch orientation
+5.59743595123:Closing,+pitch orientation
+5.89875006676:Opening,+pitch orientation
+6.19966506958:Closing,+pitch orientation
+6.35079097748:-yawRotation,NC
+6.65194416046:Opening,+pitch orientation
+6.80252599716:Closing,+pitch orientation
+6.95245909691:Opening,+pitch orientation
+7.40458202362:Stop rot at +pitch orientation,NC
+8.15871715546:Closing,+pitch orientation
+8.45913696289:Opening,+pitch orientation
+8.9115319252:Closing,+yaw orientation
+9.51457905769:Opening,+yaw orientation
+9.96572303772:XY Movement,NC
+10.5687720776:XY Stop,NC

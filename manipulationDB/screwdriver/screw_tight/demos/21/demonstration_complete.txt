@@ -1,0 +1,22 @@
+XY Movement,NC
+Z Ne,NC
+XY Stop,NC
+Z Po,NC
+Z Ne,NC
+Z Po,NC
+Z Ne,NC
+-rollRotation,NC
+Z Po,NC
+Z Ne,NC
+Z Po,NC
+Z St,NC
+Z Ne,NC
++yawRotation,NC
+Z Po,NC
+Z St,NC
+XY Movement,NC
+Z Po,NC
++rollRotation,NC
+XY Stop,NC
+Z St,NC
+Stop rot at +yaw orientation,NC

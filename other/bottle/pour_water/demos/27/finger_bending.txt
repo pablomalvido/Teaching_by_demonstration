@@ -1,0 +1,3 @@
+thumb1 --> 2,
+middle1 --> 2,
+thumb2 --> 1,

@@ -1,0 +1,10 @@
+Start:
+0.8,0.12,0.08,
+Transition:
+0.0,0.0,0.0,
+1.0,0.0,0.0,
+0.0,0.0,0.0,
+Map:
++yaworientation-pitchorientation:1
++yaworientationlong:2
++yaworientation:0

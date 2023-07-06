@@ -1,0 +1,7 @@
+Z Ne,C
+Z St,C
+No contact,+pitch orientation
+Closing,+pitch orientation
+XY Movement,NC
+Opening,+pitch orientation
+XY Stop,NC

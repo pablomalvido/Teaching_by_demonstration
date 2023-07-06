@@ -1,0 +1,4 @@
+0.0968201160431:stop,C
+2.35953378677:rotation,C
+2.51108503342:Opening,+yaw orientation
+10.346421957:rotation,C

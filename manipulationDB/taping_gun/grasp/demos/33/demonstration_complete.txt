@@ -1,0 +1,9 @@
+Contact,+pitch orientation
+No contact,+pitch orientation
++pitchRotation,NC
+-yawRotation,NC
+Z Ne,NC
+XY Stop,NC
+Z St,NC
+-rollRotation,NC
+-pitchRotation,NC

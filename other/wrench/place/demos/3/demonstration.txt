@@ -1,0 +1,7 @@
+stop,NC
+movement,NC
+Closing,-roll orientation
+stop,NC
+Opening,-roll orientation
+movement,NC
+stop,NC

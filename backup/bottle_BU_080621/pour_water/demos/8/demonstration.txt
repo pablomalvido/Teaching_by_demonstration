@@ -1,0 +1,7 @@
+stop,C
+Closing,+roll orientation
+rotation,C
+movement,C
+rotation,C
+stop,C
+Opening,+roll orientation

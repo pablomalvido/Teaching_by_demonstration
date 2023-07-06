@@ -1,0 +1,8 @@
+XY Movement,NC
+Z Ne,NC
+XY Stop,NC
+Z St,NC
+XY Movement,NC
+Z Po,NC
+Z St,NC
+Stop rot at +pitch orientation,NC

@@ -1,0 +1,4 @@
+middle0 --> 1,
+middle1 --> 0,
+middle0 --> 1,
+middle1 --> 0,

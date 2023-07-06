@@ -1,0 +1,28 @@
+-rollRotation,C
+No contact,-roll orientation
+Opening,-roll orientation
++rollRotation,NC
+Closing,-roll orientation
+Opening,-roll orientation
+Stop rot at +yaw orientation,NC
+Closing,+yaw orientation
+Opening,-roll orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Opening,-roll orientation
+Contact,-roll orientation
+Closing,-roll orientation
+No contact,-roll orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,+yaw orientation
+Closing,+yaw orientation

@@ -1,0 +1,40 @@
+stop,NC
+movement,NC
+stop,NC
+movement,NC
+stop,NC
+movement,NC
+Contact,+yaw orientation
+rotation,C
+stop,C
+movement,C
+No contact,+yaw orientation
+stop,NC
+rotation,NC
+movement,NC
+Contact,+yaw orientation
+rotation,C
+stop,C
+No contact,+yaw orientation
+Contact,+yaw orientation
+No contact,+yaw orientation
+movement,C
+stop,NC
+movement,NC
+Contact,+yaw orientation
+rotation,C
+stop,C
+movement,C
+No contact,+yaw orientation
+stop,NC
+Contact,+yaw orientation
+movement,NC
+rotation,C
+rotation,C
+stop,C
+movement,C
+No contact,+yaw orientation
+rotation,NC
+stop,NC
+Contact,+yaw orientation
+movement,C

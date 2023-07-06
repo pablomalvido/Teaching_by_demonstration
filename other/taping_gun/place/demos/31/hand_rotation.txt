@@ -1,0 +1,5 @@
+-pitchRotation
+No
+-yawRotation
+No
+-rollRotation

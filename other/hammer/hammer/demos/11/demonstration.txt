@@ -1,0 +1,20 @@
+stop,C
+movement,C
+stop,C
+movement,C
+rotation,C
+Opening,Random orientation
+stop,C
+rotation,C
+movement,C
+rotation,C
+rotation,C
+rotation,C
+No contact,-pitch orientation
+Contact,-pitch orientation
+rotation,C
+Closing,-pitch orientation
+No contact,-pitch orientation
+Opening,-pitch orientation
+Contact,-pitch orientation
+stop,C

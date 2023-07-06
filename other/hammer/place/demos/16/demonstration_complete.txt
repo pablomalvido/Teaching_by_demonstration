@@ -1,0 +1,5 @@
++rollRotation,NC
+Contact,-pitch orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Stop rot at +yaw orientation,NC

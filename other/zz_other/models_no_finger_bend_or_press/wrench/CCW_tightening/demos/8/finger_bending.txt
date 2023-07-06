@@ -1,0 +1,6 @@
+thumb0 --> 1,
+thumb1 --> 0,
+thumb0 --> 1,
+thumb1 --> 0,
+thumb0 --> 2,
+thumb2 --> 1,

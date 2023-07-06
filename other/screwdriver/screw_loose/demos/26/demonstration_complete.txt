@@ -1,0 +1,6 @@
+Z Po,NC
+Z St,NC
++pitchRotation,NC
+-rollRotation,NC
+Stop rot at Random orientation,NC
+XY Stop,NC

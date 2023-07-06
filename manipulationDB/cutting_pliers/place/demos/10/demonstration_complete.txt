@@ -1,0 +1,6 @@
+Z Ne,NC
+Opening,-roll orientation
+Z St,NC
++rollRotation,NC
+Stop rot at +yaw orientation,NC
+XY Stop,NC

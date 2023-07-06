@@ -1,0 +1,11 @@
+Stop,Stop,Stop
+Stop,Stop,Pos
+Stop,Stop,Neg
+Stop,Stop,Stop
+Stop,Stop,Pos
+Stop,Stop,Neg
+Stop,Stop,Stop
+Stop,Stop,Pos
+Stop,Stop,Stop
+Stop,Stop,Neg
+Stop,Stop,Stop

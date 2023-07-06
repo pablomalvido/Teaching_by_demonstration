@@ -1,0 +1,11 @@
+Z Ne,C
++yawRotation,C
+Z St,C
+Stop rot at +yaw orientation,C
+-yawRotation,C
++yawRotation,C
+-yawRotation,C
+Z Ne,C
++yawRotation,C
+-yawRotation,C
+Z St,C

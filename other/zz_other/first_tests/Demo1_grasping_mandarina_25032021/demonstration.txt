@@ -1,0 +1,116 @@
+xyz:y: Pos
+rpy:pitch: Pos
+rpy:yaw: Pos
+rotation:+yawRotation
+rpy:roll: Neg
+xyz:y: 0.420608428032 displacement
+xyz:y: Stop
+xyz:x: Neg
+rpy:yaw: -0.0194403281462 displacement
+rpy:yaw: Neg
+rpy:pitch: 0.0914469275404 displacement
+rpy:pitch: Neg
+xyz:x: -0.0427820594087 displacement
+xyz:x: Stop
+xyz:z: Neg
+rpy:yaw: Neg: Fast
+rpy:pitch: 0.0832335550885 displacement
+rpy:pitch: Pos
+rotation:No
+rpy:yaw: Neg
+xyz:z: -0.3776 displacement
+xyz:z: Stop
+pressure:pinky:0 --> 1
+bending:index:0 --> 1
+bending:middle:0 --> 1
+rpy:roll: -0.375535487413 displacement
+rpy:roll: Stop
+pressure:pinky:1 --> 2
+bending:middle:1 --> 2
+pressure:pinky:2 --> 1
+bending:pinky:0 --> 1
+xyz:z: Pos
+pressure:pinky:1 --> 0
+bending:ring:0 --> 1
+rpy:yaw: -0.188814380798 displacement
+rpy:yaw: Pos: Fast
+rpy:roll: Neg
+rpy:pitch: -0.0222380325616 displacement
+rpy:pitch: Neg
+rpy:yaw: Pos
+xyz:z: 0.405 displacement
+xyz:z: Stop
+rpy:roll: -0.0750217493899 displacement
+rpy:roll: Stop
+xyz:z: Neg
+rpy:yaw: 0.0929563839914 displacement
+rpy:yaw: Neg
+rpy:roll: Neg
+rpy:pitch: -0.0875569785237 displacement
+rpy:pitch: Stop
+orientation:-pitch orientation
+rotation:-rollRotation
+xyz:z: -0.1184 displacement
+orientation:-yaw orientation
+xyz:z: Stop
+rpy:roll: -0.0339383427928 displacement
+rpy:roll: Pos
+rpy:yaw: -0.051173399051 displacement
+rpy:yaw: Stop
+rotation:No
+rpy:roll: 0 displacement
+rpy:roll: Stop
+bending:pinky:1 --> 2
+rpy:yaw: Neg
+xyz:z: Pos
+rpy:pitch: Pos
+orientation:-pitch orientation
+rotation:+rollRotation
+xyz:z: 0.0821 displacement
+xyz:z: Stop
+bending:pinky:2 --> 1
+orientation:+yaw orientation
+xyz:z: Neg
+rpy:yaw: Neg: Fast
+rotation:No
+rpy:yaw: Neg
+xyz:z: -0.3734 displacement
+xyz:z: Stop
+pressure:pinky:0 --> 2
+bending:pinky:1 --> 2
+bending:pinky:2 --> 1
+pressure:pinky:2 --> 1
+bending:pinky:1 --> 0
+pressure:pinky:1 --> 0
+bending:index:1 --> 0
+bending:ring:1 --> 0
+bending:middle:2 --> 1
+xyz:z: Pos
+rpy:yaw: -0.391638991651 displacement
+rpy:yaw: Pos
+rpy:roll: Neg
+bending:middle:1 --> 0
+rpy:pitch: 0.216108530092 displacement
+rpy:pitch: Neg
+xyz:y: Neg
+rpy:yaw: Pos: Fast
+rpy:yaw: Pos
+xyz:x: Neg
+xyz:z: 0.3448 displacement
+xyz:z: Stop
+rotation:-yawRotation
+rpy:roll: -0.0623441276341 displacement
+rpy:roll: Pos
+rpy:pitch: 0.100826842742 displacement
+rpy:pitch: Pos: Fast
+rpy:roll: Pos: Fast
+xyz:y: -0.437512520781 displacement
+xyz:y: Stop
+rpy:pitch: -0.027637337741 displacement
+rpy:pitch: Neg
+rpy:yaw: 0.473638513304 displacement
+rpy:yaw: Stop
+rpy:roll: 0.27279278039 displacement
+rpy:roll: Stop
+xyz:x: -0.338194972084 displacement
+xyz:x: Stop

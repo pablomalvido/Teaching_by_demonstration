@@ -1,0 +1,6 @@
+XY Movement,NC
+XY Stop,NC
+Closing,+pitch orientation
+XY Movement,NC
+Opening,+pitch orientation
+Stop rot at +pitch orientation,NC

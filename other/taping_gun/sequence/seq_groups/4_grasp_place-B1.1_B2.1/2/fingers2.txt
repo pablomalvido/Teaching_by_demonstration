@@ -1,0 +1,5 @@
+0.000163793563843:Bending0,ClosedFalse,Touch0,StrongFalse,BentAndTouch0
+2.28829693794:Bending2,ClosedTrue,Touch0,StrongFalse,BentAndTouch0
+2.43992185593:Bending3,ClosedTrue,Touch0,StrongFalse,BentAndTouch0
+7.2599439621:Bending2,ClosedTrue,Touch0,StrongFalse,BentAndTouch0
+8.46763086319:Bending1,ClosedFalse,Touch0,StrongFalse,BentAndTouch0

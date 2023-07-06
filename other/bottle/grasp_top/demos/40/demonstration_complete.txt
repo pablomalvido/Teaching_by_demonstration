@@ -1,0 +1,5 @@
+Z Ne,NC
+Z St,NC
+Z Po,NC
+Z St,NC
+Stop rot at +pitch orientation,NC

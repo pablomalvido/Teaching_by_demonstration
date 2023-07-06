@@ -1,0 +1,21 @@
+0.00037407875061:Stop rot at Random orientation,NC
+1.35874319077:Z Ne,NC
+2.26348018646:Z St,NC
+2.41617798805:Contact,Random orientation
+3.01679706573:No contact,Random orientation
+3.31638622284:Z Po,NC
+3.31741118431:Closing,Random orientation
+3.61938214302:Opening,Random orientation
+3.77055597305:-rollRotation,NC
+3.91916203499:Z St,NC
+4.07091212273:Closing,+pitch orientation
+4.67374110222:Stop rot at +pitch orientation,NC
+5.1257750988:Opening,+pitch orientation
+7.0840780735:Closing,+pitch orientation
+8.13715410233:Opening,+pitch orientation
+9.48974299431:Z Ne,NC
+10.3937981129:Z St,NC
+10.9955890179:Z Po,NC
+11.2988860607:+rollRotation,NC
+11.8996040821:Z St,NC
+12.050962925:Stop rot at Random orientation,NC

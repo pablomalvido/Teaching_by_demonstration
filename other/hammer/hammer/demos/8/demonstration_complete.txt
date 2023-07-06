@@ -1,0 +1,12 @@
+Z Po,C
+Z Ne,C
+Z St,C
+Z Po,C
+Z Ne,C
+Z St,C
+Z Po,C
+Z St,C
+Z Ne,C
++yawRotation,C
+-yawRotation,C
+Z St,C

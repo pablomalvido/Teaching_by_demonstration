@@ -1,0 +1,4 @@
+2.35925292969:+rollRotation,C
+2.51108503342:Opening,+yaw orientation
+3.5664639473:Stop rot at +yaw orientation,C
+10.3459248543:-rollRotation,C

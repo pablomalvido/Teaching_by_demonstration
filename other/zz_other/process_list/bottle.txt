@@ -1,0 +1,8 @@
+grasp
+place
+pour_water
+grasp_top
+place_top
+grasp, place
+grasp_top, place_top
+grasp, pour_water, place

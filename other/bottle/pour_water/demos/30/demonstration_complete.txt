@@ -1,0 +1,16 @@
++rollRotation,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Stop rot at +yaw orientation,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+-rollRotation,C
+Opening,+pitch orientation
+Closing,+pitch orientation

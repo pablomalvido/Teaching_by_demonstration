@@ -1,0 +1,6 @@
+Z Ne,C
+Z Po,C
++rollRotation,C
+No contact,-roll orientation
+Z St,NC
+XY Stop,NC

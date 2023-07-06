@@ -1,0 +1,7 @@
+Z Ne,NC
+Z St,NC
+Closing,+pitch orientation
+Opening,+pitch orientation
+Z Po,NC
+-rollRotation,NC
+Z St,NC

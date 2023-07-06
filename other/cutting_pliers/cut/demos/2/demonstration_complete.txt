@@ -1,0 +1,3 @@
+Opening,+pitch orientation
+Closing,+pitch orientation
+Stop rot at +pitch orientation,NC

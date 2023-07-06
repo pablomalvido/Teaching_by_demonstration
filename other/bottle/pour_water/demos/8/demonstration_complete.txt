@@ -1,0 +1,8 @@
+Closing,+roll orientation
++rollRotation,C
+Stop rot at +yaw orientation,C
+Z Ne,C
+-rollRotation,C
+Z St,C
+Opening,+roll orientation
+Stop rot at +roll orientation,C

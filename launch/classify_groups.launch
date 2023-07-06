@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="screwdriver"/> 
+    <node name="compare_sequence_group_classify" pkg="teaching_pkg" type="classification_groups.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+</launch>  

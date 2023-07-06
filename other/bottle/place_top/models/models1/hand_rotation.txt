@@ -1,0 +1,10 @@
+Start:
+0.861111111111,0.138888888889,
+Transition:
+1.0,0.0,
+0.0,0.0,
+Map:
++pitchRotation:1
+No:0
+n_states:
+1

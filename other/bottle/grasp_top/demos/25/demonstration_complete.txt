@@ -1,0 +1,7 @@
+Z Ne,NC
+Z St,NC
+Contact,+yaw orientation
+No contact,+yaw orientation
+Contact,+yaw orientation
+Z Po,C
+Z St,C

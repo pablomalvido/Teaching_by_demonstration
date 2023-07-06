@@ -1,0 +1,19 @@
+Z Ne,C
+Z Po,C
+Closing,-pitch orientation
+Z Ne,C
+Z Po,C
+Z Ne,C
++yawRotation,C
+Z Po,C
+Z Ne,C
+Z Po,C
+Z Ne,C
+Z Po,C
++pitchRotation,C
+Z Ne,C
+Z Po,C
+-yawRotation,C
+XY Stop,C
++yawRotation,C
+Z St,C

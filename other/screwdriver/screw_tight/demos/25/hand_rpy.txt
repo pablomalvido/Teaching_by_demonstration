@@ -1,0 +1,17 @@
+Stop,Stop,Stop
+Pos,Stop,Neg
+Pos,Neg,Neg
+Neg,Neg,Neg
+Neg,Neg,Stop
+Neg,Pos,Neg
+Stop,Pos,Neg
+Neg,Neg,Neg
+Neg,Pos,Neg
+Stop,Pos,Neg
+Stop,Neg,Neg
+Neg,Neg,Neg
+Neg,Neg,Stop
+Neg,Neg,Neg
+Stop,Stop,Neg
+Stop,Neg,Neg
+Stop,Pos,Neg: Fast

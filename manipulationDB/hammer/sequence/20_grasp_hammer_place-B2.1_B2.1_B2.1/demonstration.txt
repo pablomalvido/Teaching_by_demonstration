@@ -1,0 +1,21 @@
+0.00115990638733:stop,NC
+0.00138092041016:stop,NC
+1.20527601242:movement,NC
+1.95783305168:stop,NC
+2.10809278488:rotation,NC
+2.1084458828:movement,NC
+2.1088809967:movement,NC
+2.56043696404:rotation,NC
+2.7107861042:Contact,-roll orientation
+3.6151061058:Opening,-roll orientation
+4.51789283752:rotation,C
+5.27178692818:rotation,C
+5.87595677376:rotation,C
+6.17789196968:No contact,+pitch orientation
+6.47887182236:rotation,NC
+6.4791328907:stop,NC
+6.47935295105:stop,NC
+6.9324889183:movement,NC
+6.93255805969:movement,NC
+7.38402986526:rotation,NC
+7.83546304703:stop,NC

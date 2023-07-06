@@ -1,0 +1,8 @@
+demonstration_complete.txt:2.0
+hand_rotation.txt:2
+finger_bending.txt:1
+z.txt:0.0
+hand_orientation_Z.txt:2.5
+demonstration.txt:0.5
+finger_pressure.txt:0.5
+hand_xyz.txt:0.5

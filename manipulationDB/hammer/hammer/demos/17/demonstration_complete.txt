@@ -1,0 +1,21 @@
+Z Ne,C
+Z Po,C
+Z Ne,C
+Z Po,C
+-yawRotation,C
+Z Ne,C
+Z Po,C
+XY Movement,C
+Z Ne,C
+Z Po,C
+XY Stop,C
+Z Ne,C
++pitchRotation,C
+Z Po,C
+-yawRotation,C
+Z Ne,C
+Z Po,C
+Z Ne,C
+Z Po,C
++yawRotation,C
+Z St,C

@@ -1,0 +1,7 @@
+Z Po,NC
+Z Ne,NC
+Z St,NC
+Closing,+yaw orientation
+Contact,+yaw orientation
+No contact,+yaw orientation
+Opening,+yaw orientation

@@ -1,0 +1,8 @@
+Stop rot at +pitch orientation,C
+Opening,+pitch orientation
+Z Ne,C
+Z St,C
+No contact,+pitch orientation
+XY Movement,NC
+Z Po,NC
+Z St,NC

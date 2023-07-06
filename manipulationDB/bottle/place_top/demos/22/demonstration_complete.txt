@@ -1,0 +1,5 @@
+Z Ne,C
+Opening,+yaw orientation
+Z St,C
+Z Po,C
+No contact,+yaw orientation

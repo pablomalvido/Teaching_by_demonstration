@@ -1,0 +1,3 @@
+0.000409841537476:+roll orientation
+1.55487203598:+pitch orientation
+3.36153388023:+roll orientation

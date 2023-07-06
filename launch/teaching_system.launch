@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <!--node name="socket_server" pkg="teaching_pkg" type="socket_server.py" output="screen">
+    </node-->
+    <node name="glove_orientation_analysis" pkg="teaching_pkg" type="glove_orientation.py" output="screen">
+    </node>
+    <node name="glove_fingers_analysis" pkg="teaching_pkg" type="glove_fingers.py" output="screen">
+    </node>
+    <node name="tracker_position_analysis" pkg="teaching_pkg" type="tracker_position.py" output="screen">
+    </node>
+</launch>  

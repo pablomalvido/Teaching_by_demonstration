@@ -1,0 +1,6 @@
+Contact,-roll orientation
+No contact,-roll orientation
++rollRotation,NC
+XY Movement,NC
+Stop rot at -roll orientation,NC
+-rollRotation,NC

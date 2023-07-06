@@ -1,0 +1,12 @@
+Opening,+yaw orientation
+Closing,+yaw orientation
+No contact,+yaw orientation
+Opening,Random orientation
+Closing,Random orientation
+Opening,Random orientation
+Closing,Random orientation
+Contact,Random orientation
+No contact,Random orientation
+Opening,Random orientation
+Closing,Random orientation
+Stop rot at Random orientation,NC

@@ -1,0 +1,5 @@
+stop,NC
+movement,NC
+rotation,NC
+stop,NC
+movement,NC

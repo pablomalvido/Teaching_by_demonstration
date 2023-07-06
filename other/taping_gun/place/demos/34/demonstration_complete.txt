@@ -1,0 +1,10 @@
+-pitchRotation,NC
++pitchRotation,NC
+Z Ne,NC
+-yawRotation,NC
+Z St,NC
+XY Movement,NC
+Z Po,NC
+XY Stop,NC
++yawRotation,NC
+Z St,NC

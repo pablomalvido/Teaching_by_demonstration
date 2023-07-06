@@ -1,0 +1,7 @@
+0.000504970550537:Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+2.95410203934:Bending:0,Closed:False,Touch:1,Strong:False,BentAndTouch:0
+3.25526499748:Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+4.00828003883:Bending:0,Closed:False,Touch:1,Strong:False,BentAndTouch:0
+9.27746105194:Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+9.5788860321:Bending:0,Closed:False,Touch:1,Strong:False,BentAndTouch:0
+11.5367748737:Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0

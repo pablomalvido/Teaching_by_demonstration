@@ -1,0 +1,6 @@
+1.59821510315:Z Ne,C
+2.65331506729:Z St,C
+3.40962815285:Z Po,C
+3.41077899933:No contact,+yaw orientation
+3.71212291718:Opening,+yaw orientation
+4.16374111176:Z St,NC

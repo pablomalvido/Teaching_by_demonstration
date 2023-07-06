@@ -1,0 +1,4 @@
+index0 --> 1,
+index1 --> 2,thumb2 --> 0,
+index2 --> 1,
+index1 --> 0,

@@ -1,0 +1,10 @@
+Start:
+1.0,0.0,0.0,
+Transition:
+0.04,0.6,0.36,
+1.0,0.0,0.0,
+1.0,0.0,0.0,
+Map:
+Stop,Stop,Pos:2
+Stop,Stop,Stop:0
+Stop,Stop,Neg:1

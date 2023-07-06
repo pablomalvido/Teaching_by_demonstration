@@ -1,0 +1,8 @@
+6.91413879395e-05:No
+2.07769417763:+rollRotation
+2.82952904701:-rollRotation
+3.58134818077:No
+7.34652519226:+pitchRotation
+8.55036401749:-yawRotation
+8.8516600132:+yawRotation
+9.60334706306:-rollRotation

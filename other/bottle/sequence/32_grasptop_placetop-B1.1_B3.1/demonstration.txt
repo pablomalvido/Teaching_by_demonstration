@@ -1,0 +1,13 @@
+0.0659079551697:stop,NC
+2.025370121:Closing,+yaw orientation
+2.17632198334:Contact,+yaw orientation
+2.77798008919:movement,C
+2.77853703499:movement,C
+3.53071212769:stop,C
+3.68075609207:movement,C
+4.73658394814:stop,C
+7.29509401321:No contact,+yaw orientation
+7.59654307365:Opening,+yaw orientation
+7.59588289261:movement,NC
+8.34886312485:stop,NC
+8.34840512276:stop,NC

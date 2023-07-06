@@ -1,0 +1,5 @@
+grasp
+place
+cut
+grasp, place
+grasp, cut, place

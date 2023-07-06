@@ -1,0 +1,5 @@
+rotation,C
+rotation,C
+rotation,C
+No contact,-yaw orientation
+rotation,NC

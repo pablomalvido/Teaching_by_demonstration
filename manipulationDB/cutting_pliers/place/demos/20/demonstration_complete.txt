@@ -1,0 +1,8 @@
+XY Movement,NC
+Z Ne,NC
++pitchRotation,NC
+Z Po,NC
+-pitchRotation,NC
+XY Stop,NC
+Z St,NC
++pitchRotation,NC

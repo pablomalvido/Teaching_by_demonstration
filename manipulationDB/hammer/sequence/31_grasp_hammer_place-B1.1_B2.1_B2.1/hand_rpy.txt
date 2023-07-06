@@ -1,0 +1,32 @@
+0.000180006027222:Stop,Stop,Stop
+1.50380206108:Stop,Stop,Neg
+2.85736203194:Stop,Stop,Pos
+4.21322393417:Stop,Neg,Pos: Fast
+4.66592097282:Stop,Neg: Fast,Pos
+4.66599798203:Stop,Neg: Fast,Pos
+5.87190103531:Pos,Pos: Fast,Neg
+6.32323694229:Pos: Fast,Neg: Fast,Pos: Fast
+6.62459492683:Neg: Fast,Pos: Fast,Neg: Fast
+7.37511396408:Pos: Fast,Neg: Fast,Pos: Fast
+7.52699303627:Neg: Fast,Pos,Neg
+8.4287750721:Pos: Fast,Neg: Fast,Neg
+8.57906603813:Neg: Fast,Pos,Neg
+8.87979388237:Pos,Neg,Stop
+9.03004097939:Pos,Neg: Fast,Stop
+9.48118495941:Pos,Pos: Fast,Pos
+9.78183507919:Pos,Neg,Pos
+10.2343521118:Pos,Neg: Fast,Pos
+10.385363102:Neg: Fast,Pos,Stop
+10.5349440575:Neg,Pos,Stop
+10.6856589317:Pos: Fast,Neg,Stop
+11.1364510059:Pos,Neg: Fast,Stop
+11.4377129078:Neg: Fast,Pos,Stop
+11.437707901:Neg: Fast,Pos,Stop
+11.8898460865:Pos: Fast,Neg: Fast,Stop
+12.3418591022:Pos,Pos,Pos
+13.245855093:Pos,Neg,Pos
+14.2989308834:Neg,Pos,Pos
+14.9020199776:Neg,Neg,Neg
+15.352768898:Stop,Neg,Neg
+16.2561280727:Stop,Neg,Pos
+16.5578010082:Neg,Stop,Pos

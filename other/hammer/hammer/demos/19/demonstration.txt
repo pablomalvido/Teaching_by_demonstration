@@ -1,0 +1,16 @@
+stop,C
+No contact,Random orientation
+rotation,NC
+rotation,NC
+movement,NC
+rotation,NC
+stop,NC
+rotation,NC
+Contact,Random orientation
+movement,C
+rotation,C
+rotation,C
+No contact,+roll orientation
+stop,NC
+stop,NC
+Contact,+roll orientation

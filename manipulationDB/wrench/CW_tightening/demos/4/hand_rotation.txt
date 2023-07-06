@@ -1,0 +1,10 @@
++yawRotation
+No
+-rollRotation
++yawRotation
+No
+-rollRotation
++yawRotation
+No
+-rollRotation
+No

@@ -1,0 +1,9 @@
+XY Movement,NC
++rollRotation,NC
+XY Stop,NC
+Contact,+yaw orientation
+Stop rot at +yaw orientation,C
+No contact,+yaw orientation
+Contact,+yaw orientation
+-rollRotation,C
+Stop rot at -pitch orientation,C

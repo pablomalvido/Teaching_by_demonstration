@@ -1,0 +1,6 @@
++rollRotation,C
+Stop rot at +yaw orientation,C
+Z Ne,C
+-rollRotation,C
+Closing,+yaw orientation
+Z St,C

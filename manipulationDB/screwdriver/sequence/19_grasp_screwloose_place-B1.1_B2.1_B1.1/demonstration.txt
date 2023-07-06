@@ -1,0 +1,23 @@
+0.110445022583:stop,NC
+0.86509013176:movement,NC
+1.76756906509:stop,NC
+1.76805210114:stop,NC
+2.06748008728:movement,NC
+2.21912097931:Closing,+yaw orientation
+4.02134299278:stop,NC
+4.92472410202:Opening,+yaw orientation
+6.12782502174:Closing,+yaw orientation
+7.03265213966:Opening,+yaw orientation
+9.74080109596:Contact,+yaw orientation
+10.3437311649:No contact,+yaw orientation
+10.6448991299:Contact,+yaw orientation
+11.0962879658:No contact,+yaw orientation
+11.3967111111:Contact,+yaw orientation
+11.5464291573:No contact,+yaw orientation
+12.9015409946:movement,NC
+14.2562839985:stop,NC
+14.708753109:movement,NC
+14.7092661858:Closing,+yaw orientation
+15.0099241734:Opening,+yaw orientation
+15.7621619701:stop,NC
+15.7634861469:stop,NC

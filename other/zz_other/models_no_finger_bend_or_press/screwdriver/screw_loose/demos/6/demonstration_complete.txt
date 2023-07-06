@@ -1,0 +1,21 @@
+Contact,+yaw orientation
+-rollRotation,C
+Stop rot at Random orientation,C
+Opening,Random orientation
+No contact,Random orientation
++rollRotation,NC
+Closing,-roll orientation
+Stop rot at -roll orientation,NC
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+No contact,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation

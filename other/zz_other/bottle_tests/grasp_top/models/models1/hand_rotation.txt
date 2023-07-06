@@ -1,0 +1,8 @@
+Start:
+1.0,0.0,
+Transition:
+0.166666666667,0.833333333333,
+1.0,0.0,
+Map:
+-pitchRotation:1
+No:0

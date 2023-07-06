@@ -1,0 +1,31 @@
+Z Ne,C
+Z Po,C
+Z St,C
+Z Po,C
+-yawRotation,C
+Opening,Random orientation
+Z St,C
++yawRotation,C
+Z Po,C
+Z Ne,C
+Z Po,C
+-yawRotation,C
+Z Ne,C
+Z Po,C
+Z Ne,C
++yawRotation,C
+Z Po,C
+Z Ne,C
+-yawRotation,C
+No contact,-pitch orientation
+Z Po,NC
+Z Ne,NC
+Contact,-pitch orientation
++yawRotation,C
+Closing,-pitch orientation
+No contact,-pitch orientation
+Z Po,NC
+Opening,-pitch orientation
+Contact,-pitch orientation
+Z St,C
+Stop rot at -pitch orientation,C

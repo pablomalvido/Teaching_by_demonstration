@@ -1,0 +1,7 @@
++yawRotation,C
+-yawRotation,C
++yawRotation,C
+-yawRotation,C
++yawRotation,C
+-yawRotation,C
+Stop rot at +roll orientation,C

@@ -1,0 +1,8 @@
+stop,C
+movement,C
+stop,C
+rotation,C
+movement,C
+rotation,C
+stop,C
+movement,C

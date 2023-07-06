@@ -1,0 +1,8 @@
+Z Ne,C
++pitchRotation,C
+No contact,-roll orientation
+Contact,-roll orientation
+Z St,C
+Z Po,C
+No contact,-roll orientation
++yawRotation,NC

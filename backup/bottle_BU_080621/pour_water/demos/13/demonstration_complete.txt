@@ -1,0 +1,13 @@
+Stop rot at +pitch orientation,C
++rollRotation,C
+Closing,+yaw orientation
+Stop rot at +yaw orientation,C
+Opening,+yaw orientation
+Opening,+yaw orientation
+-rollRotation,C
+Closing,+pitch orientation
+Opening,+pitch orientation
+Closing,+pitch orientation
+Opening,+pitch orientation
+Stop rot at +pitch orientation,C
+Closing,+pitch orientation

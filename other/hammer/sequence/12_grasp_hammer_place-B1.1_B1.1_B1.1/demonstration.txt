@@ -1,0 +1,34 @@
+0.0176630020142:stop,NC
+1.52292490005:movement,NC
+1.52478194237:movement,NC
+2.12594413757:rotation,NC
+2.27526187897:Closing,+yaw orientation
+2.42606091499:stop,NC
+2.72891306877:Contact,+yaw orientation
+3.32954096794:movement,C
+3.33071398735:movement,C
+4.83671092987:Opening,-pitch orientation
+4.98835396767:Closing,-pitch orientation
+5.28831315041:rotation,C
+5.43841814995:rotation,C
+5.73937296867:Opening,-pitch orientation
+5.89049005508:rotation,C
+6.04033613205:rotation,C
+6.34171795845:Closing,-pitch orientation
+6.49292206764:Opening,-pitch orientation
+6.64278197289:rotation,C
+6.79262113571:rotation,C
+7.24464392662:rotation,C
+8.4466791153:rotation,C
+8.44546198845:stop,C
+8.44662499428:stop,C
+9.11473703384:movement,C
+9.20176911354:rotation,C
+9.95310401917:stop,C
+9.95386886597:stop,C
+10.4058480263:No contact,+yaw orientation
+10.4049110413:movement,C
+11.1593260765:Opening,+yaw orientation
+11.4606580734:rotation,NC
+11.459446907:stop,NC
+11.4648270607:stop,NC

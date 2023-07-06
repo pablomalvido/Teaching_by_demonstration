@@ -1,0 +1,12 @@
+Z Ne,C
+XY Movement,C
+No contact,+roll orientation
+Z St,NC
+Contact,+roll orientation
+XY Stop,NC
+Z Po,NC
+XY Movement,C
+No contact,+roll orientation
++rollRotation,NC
+XY Stop,NC
+Z St,NC

@@ -1,0 +1,2 @@
+stop,NC
+movement,NC

@@ -1,0 +1,7 @@
+XY Movement,NC
+Opening,-roll orientation
+Closing,-roll orientation
+XY Stop,NC
+Contact,-roll orientation
+Z Po,NC
+Z St,C

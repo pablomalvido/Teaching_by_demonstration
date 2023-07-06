@@ -1,0 +1,4 @@
+Stop,Stop,Stop
+Pos,Neg,Stop
+Pos,Stop,Stop
+Neg,Pos,Stop

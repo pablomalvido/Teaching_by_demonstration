@@ -1,0 +1,3 @@
+index:0 --> 1,thumb:0 --> 1,middle:0 --> 1,
+ring:0 --> 1,
+pinky:0 --> 1,

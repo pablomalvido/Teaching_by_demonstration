@@ -1,0 +1,14 @@
+Start:
+0.7,0.1,0.2,0.0,
+Transition:
+0.0,0.888888888889,0.0,0.111111111111,
+0.888888888889,0.0,0.0,0.111111111111,
+0.0,1.0,0.0,0.0,
+0.0,0.0,0.0,0.0,
+Map:
+Randomorientation:3
++yaworientationlong:2
+-pitchorientation:1
++yaworientation:0
+n_states:
+3

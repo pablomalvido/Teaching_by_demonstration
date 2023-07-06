@@ -1,0 +1,15 @@
+Start:
+0.2,0.8,
+0.0,0.0,
+Transition:
+0.0,0.0,
+0.0,0.0,
+-
+0.0,0.0,
+0.0,0.0,
+-
+Map:
+-pitchorientation:0
+-pitchorientationlong:1
+n_states:
+1

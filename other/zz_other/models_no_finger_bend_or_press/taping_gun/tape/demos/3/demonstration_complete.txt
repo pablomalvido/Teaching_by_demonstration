@@ -1,0 +1,8 @@
+Z Ne,NC
+Z St,NC
+Contact,-pitch orientation
+Z Po,C
+Opening,-pitch orientation
+No contact,-pitch orientation
+Z St,NC
+Stop rot at -pitch orientation,NC

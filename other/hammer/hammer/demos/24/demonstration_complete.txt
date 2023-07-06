@@ -1,0 +1,34 @@
+Stop rot at -roll orientation,C
+-yawRotation,C
+Z Po,C
+No contact,-roll orientation
+Z Ne,C
++yawRotation,NC
+Z Po,NC
+Z Ne,NC
+Z Po,NC
+-yawRotation,NC
+Z Ne,NC
++yawRotation,NC
+Z Po,NC
+-yawRotation,NC
+Z Ne,NC
++yawRotation,NC
+Z Po,NC
+-yawRotation,NC
+Z Ne,NC
+Z Po,NC
+-pitchRotation,NC
+Z Ne,NC
++rollRotation,NC
++yawRotation,NC
+Z Po,NC
+-yawRotation,NC
+Z Ne,NC
++yawRotation,NC
+Z Po,NC
+-yawRotation,NC
+Z Ne,NC
++yawRotation,NC
+Z St,NC
+-yawRotation,NC

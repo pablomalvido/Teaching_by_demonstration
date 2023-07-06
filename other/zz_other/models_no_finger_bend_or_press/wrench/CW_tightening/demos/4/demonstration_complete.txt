@@ -1,0 +1,32 @@
+XY Movement,C
+No contact,+yaw orientation
+XY Stop,NC
+XY Movement,NC
+Contact,+yaw orientation
++yawRotation,C
+XY Stop,C
+Stop rot at Random orientation,C
+XY Movement,C
+No contact,Random orientation
+-rollRotation,NC
+XY Stop,NC
+XY Movement,NC
+Contact,+yaw orientation
++yawRotation,C
+XY Stop,C
+XY Movement,C
+Stop rot at Random orientation,C
+No contact,+roll orientation
+XY Stop,NC
+-rollRotation,NC
+XY Movement,NC
+Contact,+yaw orientation
++yawRotation,C
+XY Stop,C
+XY Movement,C
+Stop rot at +roll orientation,C
+No contact,+roll orientation
+-rollRotation,NC
+XY Stop,NC
+Contact,+yaw orientation
+Stop rot at +yaw orientation,C

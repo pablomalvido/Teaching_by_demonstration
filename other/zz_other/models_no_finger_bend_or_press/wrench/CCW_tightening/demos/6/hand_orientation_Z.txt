@@ -1,0 +1,13 @@
++pitch orientation
+-roll orientation
++yaw orientation
++pitch orientation
++yaw orientation
+-roll orientation
++yaw orientation
++pitch orientation
+Random orientation
+-roll orientation
++pitch orientation
++yaw orientation
+Random orientation

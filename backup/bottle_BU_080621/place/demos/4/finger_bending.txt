@@ -1,0 +1,4 @@
+pinky:1 --> 0,
+thumb:1 --> 0,
+index:2 --> 1,
+middle:1 --> 0,

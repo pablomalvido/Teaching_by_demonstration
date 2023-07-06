@@ -1,0 +1,7 @@
+Z Ne,NC
+Z St,NC
+XY Movement,NC
+XY Stop,NC
+Contact,+yaw orientation
+Z Po,C
+Stop rot at +yaw orientation,C

@@ -1,0 +1,5 @@
+Closing,Random orientation
+Contact,Random orientation
+movement,C
+Opening,Random orientation
+stop,C

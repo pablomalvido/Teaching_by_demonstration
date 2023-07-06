@@ -1,0 +1,6 @@
+Z Ne,NC
+Z St,NC
+Contact,+pitch orientation
+No contact,+pitch orientation
+Contact,+pitch orientation
+-rollRotation,C

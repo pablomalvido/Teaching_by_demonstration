@@ -1,0 +1,4 @@
+index:0 --> 2,ring:0 --> 1,middle:0 --> 2,
+ring:1 --> 2,
+index:2 --> 1,
+index:1 --> 0,ring:2 --> 1,

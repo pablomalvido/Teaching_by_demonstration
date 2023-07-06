@@ -1,0 +1,13 @@
+1.20845794678:Z Ne,NC
+2.11141109467:Z St,NC
+2.41488790512:Closing,+yaw orientation
+2.41546988487:Contact,+yaw orientation
+3.1662530899:Z Po,C
+4.37027597427:Z St,C
+5.12352108955:Z Ne,C
+6.47929596901:Z St,C
+6.48138809204:Closing,+yaw orientation
+7.08218502998:Opening,+yaw orientation
+7.08254909515:No contact,+yaw orientation
+7.23026704788:Z Po,NC
+7.98397994041:Z St,NC

@@ -1,0 +1,10 @@
+Opening,+yaw orientation
+Z Ne,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Z St,C
+Closing,+yaw orientation
+Z Po,C
+No contact,+yaw orientation
+Opening,+yaw orientation
+Z St,NC

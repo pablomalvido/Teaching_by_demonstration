@@ -1,0 +1,8 @@
+stop,NC
+movement,NC
+stop,NC
+Closing,Random orientation
+movement,NC
+Contact,Random orientation
+rotation,C
+stop,C

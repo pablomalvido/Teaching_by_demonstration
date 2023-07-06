@@ -1,0 +1,6 @@
+stop,NC
+movement,NC
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+stop,NC

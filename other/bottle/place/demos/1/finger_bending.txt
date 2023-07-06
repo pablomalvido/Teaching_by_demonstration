@@ -1,0 +1,4 @@
+ring1 --> 0,
+pinky1 --> 0,
+thumb1 --> 0,
+index1 --> 0,

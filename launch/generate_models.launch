@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="screwdriver"/> 
+    <node name="create_model" pkg="teaching_pkg" type="create_model.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+    <node name="create_model_2states" pkg="teaching_pkg" type="create_model_2states.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+    <node name="create_model_3states" pkg="teaching_pkg" type="create_model_3states.py" output="screen">
+	<param name="object" value="$(arg object)" />
+    </node>
+</launch>  

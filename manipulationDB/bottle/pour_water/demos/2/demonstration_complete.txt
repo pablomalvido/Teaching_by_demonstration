@@ -1,0 +1,21 @@
+Opening,-pitch orientation
+Closing,-pitch orientation
+Z Po,C
+Opening,-pitch orientation
+Closing,-pitch orientation
++rollRotation,C
+Z St,C
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Stop rot at +yaw orientation,C
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+-rollRotation,C
+Opening,-pitch orientation
+Closing,-pitch orientation

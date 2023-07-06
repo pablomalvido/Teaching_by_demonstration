@@ -1,0 +1,30 @@
+y: Pos
+y: 0.420608428032 displacement
+y: Stop
+x: Neg
+x: -0.0427820594087 displacement
+x: Stop
+z: Neg
+z: -0.3776 displacement
+z: Stop
+z: Pos
+z: 0.405 displacement
+z: Stop
+z: Neg
+z: -0.1184 displacement
+z: Stop
+z: Pos
+z: 0.0821 displacement
+z: Stop
+z: Neg
+z: -0.3734 displacement
+z: Stop
+z: Pos
+y: Neg
+x: Neg
+z: 0.3448 displacement
+z: Stop
+y: -0.437512520781 displacement
+y: Stop
+x: -0.338194972084 displacement
+x: Stop

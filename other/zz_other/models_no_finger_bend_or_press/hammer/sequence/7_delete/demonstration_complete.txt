@@ -1,0 +1,1 @@
+0.000349044799805:Stop rot at +yaw orientation,NC

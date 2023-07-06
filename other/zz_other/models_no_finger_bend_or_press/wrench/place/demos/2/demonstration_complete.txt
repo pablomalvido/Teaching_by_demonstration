@@ -1,0 +1,6 @@
+Z Ne,NC
+Z St,NC
+Z Po,NC
+Opening,+yaw orientation
++pitchRotation,NC
+Z St,NC

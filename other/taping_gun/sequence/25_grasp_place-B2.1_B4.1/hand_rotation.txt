@@ -1,0 +1,8 @@
+0.000230073928833:No
+1.3142490387:-yawRotation
+2.21762895584:+pitchRotation
+2.51870417595:-rollRotation
+4.0224339962:+pitchRotation
+4.32385611534:+rollRotation
+4.92590498924:-pitchRotation
+5.52702903748:+yawRotation

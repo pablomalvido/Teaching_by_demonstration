@@ -1,0 +1,16 @@
+No contact,Random orientation
+-yawRotation,NC
++yawRotation,NC
+Z Ne,NC
+-yawRotation,NC
+Z Po,NC
+Z St,NC
++yawRotation,NC
+Contact,Random orientation
+Z Ne,C
+Z Po,C
+-yawRotation,C
++yawRotation,C
+No contact,+roll orientation
+Z St,NC
+Contact,+roll orientation

@@ -1,0 +1,4 @@
+Z Ne,C
+No contact,-pitch orientation
+Z St,NC
+Stop rot at +yaw orientation,NC

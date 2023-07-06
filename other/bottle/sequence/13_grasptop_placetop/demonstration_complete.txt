@@ -1,0 +1,16 @@
+1.35720896721:Z Ne,NC
+1.96238493919:-pitchRotation,NC
+2.11208486557:Z St,NC
+2.11290502548:Contact,+yaw orientation
+2.26357293129:Closing,+yaw orientation
+2.86426496506:Z Po,C
+3.46650195122:Opening,+yaw orientation
+3.6169500351:Stop rot at +yaw orientation,C
+3.91845202446:Z St,C
+4.97183203697:Z Ne,C
+5.42551112175:Closing,+yaw orientation
+6.02627706528:Z St,C
+6.3277130127:Z Po,C
+6.48018407822:Opening,+yaw orientation
+6.48053598404:No contact,+yaw orientation
+7.08081889153:Z St,NC

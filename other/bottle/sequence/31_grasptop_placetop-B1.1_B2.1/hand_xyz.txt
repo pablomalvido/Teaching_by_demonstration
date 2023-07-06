@@ -1,0 +1,7 @@
+0.000177145004272:Stop,Stop,Stop
+2.42893505096:Stop,Stop,Stop
+3.4831430912:Stop,Stop,Pos
+4.38802599907:Stop,Stop,Stop
+6.79661107063:Stop,Stop,Neg
+7.69997406006:Stop,Stop,Stop
+8.45237898827:Stop,Stop,Pos

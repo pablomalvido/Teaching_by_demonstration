@@ -1,0 +1,6 @@
+0.0659890174866:-roll orientation long
+3.63127708435:-yaw orientation
+4.53488898277:-roll orientation long
+13.5708711147:-yaw orientation
+15.2278249264:-roll orientation
+15.6801791191:+yaw orientation

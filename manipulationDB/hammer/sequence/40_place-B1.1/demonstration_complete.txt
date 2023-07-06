@@ -1,0 +1,6 @@
+0.000138998031616:Stop rot at +pitch orientation,NC
+1.04609298706:Z Ne,NC
+1.19692206383:Stop rot at +pitch orientation,NC
+1.79891991615:+rollRotation,NC
+1.94904303551:Z St,NC
+2.09960007668:Z Po,NC

@@ -1,0 +1,4 @@
+Stop,Stop,Stop
+Neg,Pos: Fast,Neg
+Neg,Pos,Neg
+Neg,Neg,Pos

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="object" default="hammer"/> 
+    <arg name="demo_name" default="1"/> 
+    <node name="segment_classify" pkg="teaching_pkg" type="segmentation_classification_sequence_individual.py" output="screen">
+	<param name="object" value="$(arg object)" />
+	<param name="demo_name" value="$(arg demo_name)" />
+    </node>
+</launch>  

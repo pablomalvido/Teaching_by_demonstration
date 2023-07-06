@@ -1,0 +1,5 @@
+pinky0 --> 1,
+pinky1 --> 0,
+pinky0 --> 1,
+pinky1 --> 0,
+pinky0 --> 1,

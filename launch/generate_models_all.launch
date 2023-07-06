@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<launch>
+    <include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="screwdriver" />
+    </include>
+    <include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="wrench" />
+    </include>
+    <include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="hammer" />
+    </include>
+    <include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="cutting_pliers" />
+    </include>
+    <include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="taping_gun" />
+    </include>
+    <!--include file="$(find teaching_pkg)/launch/generate_models.launch">
+  	<arg name="object" value="bottle" />
+    </include-->
+</launch>  

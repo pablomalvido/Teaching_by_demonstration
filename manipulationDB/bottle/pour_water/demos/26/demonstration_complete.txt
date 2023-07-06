@@ -1,0 +1,14 @@
+Z Po,C
+Z St,C
+Closing,-pitch orientation
++rollRotation,C
+Stop rot at +yaw orientation,C
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+-rollRotation,C
+Stop rot at -pitch orientation,C

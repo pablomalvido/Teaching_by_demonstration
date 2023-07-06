@@ -1,0 +1,4 @@
+pinky1 --> 0,ring1 --> 0,
+pinky0 --> 1,ring0 --> 1,middle0 --> 1,
+pinky1 --> 2,ring1 --> 2,
+middle1 --> 0,

@@ -1,0 +1,15 @@
+Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+Bending:4,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+Bending:1,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+Bending:4,Closed:False,Touch:2,Strong:False,BentAndTouch:2
+Bending:4,Closed:False,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:1,Strong:True,BentAndTouch:1
+Bending:0,Closed:False,Touch:0,Strong:False,BentAndTouch:0
+Bending:2,Closed:False,Touch:1,Strong:False,BentAndTouch:1
+Bending:5,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:2,Strong:True,BentAndTouch:2
+Bending:4,Closed:True,Touch:1,Strong:True,BentAndTouch:1

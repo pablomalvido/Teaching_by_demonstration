@@ -1,0 +1,6 @@
+Stop rot at +yaw orientation,NC
+Z Ne,NC
+Z Po,NC
+Closing,+yaw orientation
+Contact,+yaw orientation
+Z St,C

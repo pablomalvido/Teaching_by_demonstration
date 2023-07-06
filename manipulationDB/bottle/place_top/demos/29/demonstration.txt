@@ -1,0 +1,5 @@
+stop,NC
+movement,NC
+Closing,+yaw orientation
+Opening,+yaw orientation
+rotation,NC

@@ -1,0 +1,2 @@
+0.000394105911255:Stop rot at +yaw orientation,NC
+0.266335964203:Stop rot at +yaw orientation,NC

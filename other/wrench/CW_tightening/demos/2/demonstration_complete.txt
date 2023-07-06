@@ -1,0 +1,17 @@
+No contact,Random orientation
+XY Movement,NC
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+XY Stop,NC
+XY Movement,NC
+-rollRotation,NC
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+XY Stop,NC
+Stop rot at Random orientation,NC
+XY Movement,NC
++pitchRotation,NC
+XY Stop,NC
+Stop rot at +roll orientation,NC

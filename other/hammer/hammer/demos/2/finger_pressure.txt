@@ -1,0 +1,8 @@
+index2 --> 1,
+index1 --> 2,
+index2 --> 1,
+index1 --> 2,
+index2 --> 1,
+index1 --> 2,middle0 --> 2,
+middle2 --> 1,
+middle1 --> 0,

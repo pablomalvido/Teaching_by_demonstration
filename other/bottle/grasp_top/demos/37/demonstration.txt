@@ -1,0 +1,8 @@
+stop,NC
+movement,NC
+Contact,-roll orientation
+No contact,-roll orientation
+stop,C
+movement,NC
+Closing,+pitch orientation
+stop,NC

@@ -1,0 +1,4 @@
+stop,C
+rotation,C
+Closing,+yaw orientation
+Opening,+yaw orientation

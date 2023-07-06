@@ -1,0 +1,12 @@
+Z Ne,NC
+-rollRotation,NC
+Z St,NC
++rollRotation,NC
+-rollRotation,NC
++rollRotation,NC
+Z Ne,NC
+Z St,NC
+Z Po,NC
+-rollRotation,NC
+Z St,NC
+Stop rot at +roll orientation,NC

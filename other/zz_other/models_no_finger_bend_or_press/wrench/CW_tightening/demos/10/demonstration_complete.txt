@@ -1,0 +1,26 @@
+Closing,+yaw orientation
+No contact,+yaw orientation
+XY Movement,NC
+Opening,+yaw orientation
+XY Stop,NC
+-yawRotation,NC
+XY Movement,NC
+Contact,+yaw orientation
++yawRotation,C
+XY Stop,C
+XY Movement,C
+No contact,+yaw orientation
+XY Stop,NC
+XY Movement,NC
+-rollRotation,NC
+Contact,+yaw orientation
+Closing,+yaw orientation
+XY Stop,C
+XY Movement,C
++rollRotation,C
+Opening,+yaw orientation
+No contact,+yaw orientation
+XY Stop,NC
+-rollRotation,NC
+Contact,+yaw orientation
+No contact,+yaw orientation

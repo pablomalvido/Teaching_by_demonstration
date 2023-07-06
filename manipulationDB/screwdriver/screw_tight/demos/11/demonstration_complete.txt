@@ -1,0 +1,38 @@
+Z Ne,NC
+Z St,NC
+Opening,+yaw orientation
+Contact,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Z Ne,C
+-rollRotation,C
+Closing,-pitch orientation
+Z St,C
+Opening,-yaw orientation
+Closing,-yaw orientation
+No contact,-yaw orientation
++rollRotation,NC
+Opening,-pitch orientation
+Contact,-pitch orientation
+Stop rot at -pitch orientation,C
+Z Ne,C
+-rollRotation,C
+Z Po,C
+No contact,-yaw orientation
++rollRotation,NC
+Z St,NC
+Z Ne,NC
+Contact,+yaw orientation
+No contact,+yaw orientation
+Z Po,NC
+-rollRotation,NC
++rollRotation,NC
+Z St,NC
+Stop rot at +yaw orientation,NC
+Z Ne,NC
+-rollRotation,NC
+Z St,NC
+Z Po,NC
++rollRotation,NC
+Z St,NC
+Stop rot at +yaw orientation,NC

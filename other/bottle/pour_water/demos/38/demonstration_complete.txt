@@ -1,0 +1,6 @@
+Z Po,NC
++yawRotation,NC
+Z St,NC
+Stop rot at +yaw orientation,NC
+-rollRotation,NC
+Stop rot at +roll orientation,NC

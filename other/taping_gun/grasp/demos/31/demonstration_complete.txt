@@ -1,0 +1,9 @@
+-yawRotation,NC
+Z Ne,NC
+Z St,NC
+-rollRotation,NC
+-yawRotation,NC
+Z Po,NC
+-rollRotation,NC
+Z St,NC
+-pitchRotation,NC

@@ -1,0 +1,5 @@
+XY Movement,NC
+XY Stop,NC
+-yawRotation,NC
+XY Movement,NC
+Stop rot at -roll orientation,NC

@@ -1,0 +1,8 @@
+Z Ne,C
++pitchRotation,C
++rollRotation,C
+Z St,C
+Z Po,C
+Stop rot at +yaw orientation,C
+No contact,+yaw orientation
++yawRotation,NC

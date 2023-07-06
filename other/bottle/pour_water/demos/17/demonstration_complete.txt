@@ -1,0 +1,8 @@
+Z Po,C
+Z St,C
++rollRotation,C
+Stop rot at -roll orientation,C
+Z Ne,C
+-rollRotation,C
+Z St,C
+Z Ne,C

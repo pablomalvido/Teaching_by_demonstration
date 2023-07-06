@@ -1,0 +1,7 @@
+stop,NC
+movement,NC
+rotation,NC
+Opening,+yaw orientation
+rotation,NC
+stop,NC
+rotation,NC

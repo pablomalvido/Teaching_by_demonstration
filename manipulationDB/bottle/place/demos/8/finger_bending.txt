@@ -1,0 +1,2 @@
+thumb0 --> 2,
+pinky1 --> 0,thumb2 --> 0,

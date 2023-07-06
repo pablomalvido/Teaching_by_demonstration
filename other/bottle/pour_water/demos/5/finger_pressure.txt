@@ -1,0 +1,3 @@
+pinky2 --> 1,
+pinky1 --> 2,
+pinky2 --> 1,index1 --> 0,

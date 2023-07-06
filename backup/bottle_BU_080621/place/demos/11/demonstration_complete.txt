@@ -1,0 +1,5 @@
+Stop rot at +pitch orientation,C
+Z Ne,C
+Z St,C
+XY Movement,C
+XY Stop,C

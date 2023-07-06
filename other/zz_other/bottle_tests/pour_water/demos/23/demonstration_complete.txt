@@ -1,0 +1,8 @@
+-pitchRotation,C
+Stop rot at +pitch orientation,C
++pitchRotation,C
+Stop rot at -yaw orientation,C
+-pitchRotation,C
+No contact,-yaw orientation
++rollRotation,NC
+Stop rot at +pitch orientation,NC

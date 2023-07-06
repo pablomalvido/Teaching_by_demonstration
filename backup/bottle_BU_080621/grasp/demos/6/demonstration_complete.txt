@@ -1,0 +1,13 @@
+Stop rot at +yaw orientation,NC
+XY Movement,NC
+Z Ne,NC
+Closing,+yaw orientation
+XY Stop,NC
+Z St,NC
+Opening,+yaw orientation
+Closing,+yaw orientation
+Z Po,NC
+-rollRotation,NC
+Contact,-roll orientation
+Z St,C
+Stop rot at -roll orientation,C

@@ -1,0 +1,8 @@
+stop,C
+rotation,C
+No contact,+yaw orientation
+rotation,NC
+movement,NC
+Opening,+yaw orientation
+rotation,NC
+stop,NC

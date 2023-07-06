@@ -1,0 +1,6 @@
+Stop rot at +roll orientation,NC
+XY Movement,NC
+Z St,NC
+Z Po,NC
+XY Stop,NC
+Contact,+roll orientation

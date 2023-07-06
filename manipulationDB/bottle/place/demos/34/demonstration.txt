@@ -1,0 +1,3 @@
+stop,C
+movement,C
+No contact,-roll orientation

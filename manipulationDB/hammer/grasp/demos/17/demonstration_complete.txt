@@ -1,0 +1,7 @@
+XY Movement,NC
+-yawRotation,NC
+XY Stop,NC
+Closing,-roll orientation
+Contact,Random orientation
+Stop rot at +pitch orientation,C
+Opening,-yaw orientation

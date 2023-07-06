@@ -1,0 +1,6 @@
+2.62050509453:XY Movement,NC
+3.67625999451:XY Stop,NC
+3.67752790451:Closing,-pitch orientation
+3.67814683914:Contact,-pitch orientation
+4.12953996658:Z Po,C
+5.03571510315:Z St,C

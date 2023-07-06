@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="calibration" pkg="teaching_pkg" type="calibration.py" output="screen">
+    </node>
+</launch>  

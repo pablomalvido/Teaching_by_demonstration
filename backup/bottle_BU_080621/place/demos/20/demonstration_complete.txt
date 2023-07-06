@@ -1,0 +1,3 @@
+Stop rot at +roll orientation,C
+Z St,C
+No contact,+roll orientation

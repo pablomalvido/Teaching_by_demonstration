@@ -1,0 +1,16 @@
+-yawRotation,NC
+Z Ne,NC
++yawRotation,NC
+Z Po,NC
+Z Ne,NC
+-yawRotation,NC
+Z St,NC
+Z Ne,NC
+Z Po,NC
+Z Ne,NC
+Z Po,NC
+Contact,+roll orientation
++yawRotation,C
+Z St,C
+Stop rot at +roll orientation,C
+No contact,+roll orientation

@@ -1,0 +1,20 @@
+stop,NC
+Contact,+yaw orientation
+rotation,C
+Opening,Random orientation
+No contact,Random orientation
+rotation,NC
+Closing,-roll orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+No contact,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation

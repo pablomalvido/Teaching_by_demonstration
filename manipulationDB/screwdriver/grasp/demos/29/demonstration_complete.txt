@@ -1,0 +1,5 @@
+XY Movement,NC
+XY Stop,NC
+-rollRotation,NC
+Stop rot at +roll orientation,NC
+Opening,+roll orientation

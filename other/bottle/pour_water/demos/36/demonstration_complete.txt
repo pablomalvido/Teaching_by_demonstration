@@ -1,0 +1,10 @@
+Z Po,C
+XY Movement,C
++yawRotation,C
+Z St,C
+XY Stop,C
+XY Movement,C
+Z Ne,C
+-yawRotation,C
+XY Stop,C
+-rollRotation,C

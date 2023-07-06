@@ -1,0 +1,31 @@
+0.000114917755127:Stop rot at +yaw orientation,NC
+2.0074930191:Z Ne,NC
+2.47580814362:XY Movement,NC
+2.94744086266:-rollRotation,NC
+3.26179909706:Z St,NC
+3.2623360157:Opening,+pitch orientation
+3.57082009315:XY St,NC
+3.72947502136:Closing,+pitch orientation
+3.90806794167:Contact,+pitch orientation
+4.51167583466:Stop rot at +pitch orientation,C
+4.82168102264:Z Po,C
+5.91444897652:Z St,C
+6.22889208794:XY Movement,C
+7.48153710365:XY Stop,C
+8.58121204376:+rollRotation,C
+10.7724468708:Stop rot at Random orientation,C
+14.512319088:XY Movement,C
+14.8250458241:-rollRotation,C
+15.6037640572:XY Stop,C
+16.0739719868:Stop rot at +pitch orientation,C
+16.2278602123:XY Movement,C
+17.1647741795:XY Stop,C
+17.9468472004:Z Ne,C
+19.0370900631:Z St,C
+19.489563942:No contact,+pitch orientation
+19.6612780094:Opening,+pitch orientation
+19.8187551498:XY Movement,NC
+19.8192241192:Z Po,NC
+21.065636158:XY Stop,NC
+21.0659229755:Z St,NC
+

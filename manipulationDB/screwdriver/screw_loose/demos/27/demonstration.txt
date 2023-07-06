@@ -1,0 +1,20 @@
+stop,NC
+Opening,+pitch orientation
+Closing,+pitch orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Contact,+yaw orientation
+Opening,+yaw orientation
+No contact,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+movement,NC
+Opening,-pitch orientation
+stop,NC

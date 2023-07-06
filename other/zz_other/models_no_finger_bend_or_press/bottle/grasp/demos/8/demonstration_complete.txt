@@ -1,0 +1,11 @@
+Z Ne,NC
+XY Movement,NC
+Z St,NC
+XY Stop,NC
+-rollRotation,NC
+Closing,+pitch orientation
+Contact,+pitch orientation
+Z Po,C
+Stop rot at +pitch orientation,C
+Z St,C
+Opening,+pitch orientation

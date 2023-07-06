@@ -1,0 +1,14 @@
++rollRotation,C
+Opening,+yaw orientation
+Stop rot at +yaw orientation,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+-rollRotation,C
+Opening,+yaw orientation
+Closing,+roll orientation
+Stop rot at +roll orientation,C

@@ -1,0 +1,18 @@
+stop,C
+movement,C
+rotation,C
+stop,C
+Closing,Random orientation
+Opening,Random orientation
+Closing,Random orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,+yaw orientation
+Closing,+yaw orientation
+movement,C
+movement,C
+Opening,+yaw orientation
+stop,C
+rotation,C

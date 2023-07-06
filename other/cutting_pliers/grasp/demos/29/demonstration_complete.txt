@@ -1,0 +1,3 @@
+Stop rot at +yaw orientation,NC
+-yawRotation,NC
+-rollRotation,NC

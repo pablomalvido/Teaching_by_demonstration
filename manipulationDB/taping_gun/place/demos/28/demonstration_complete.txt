@@ -1,0 +1,6 @@
++pitchRotation,NC
+Z Po,NC
+XY Movement,NC
+Stop rot at +yaw orientation,NC
+Z St,NC
+-rollRotation,NC

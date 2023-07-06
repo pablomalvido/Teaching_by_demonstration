@@ -1,0 +1,5 @@
+Contact,Random orientation
+No contact,+roll orientation
+XY Movement,NC
+XY Stop,NC
+Stop rot at +roll orientation,NC

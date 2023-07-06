@@ -1,0 +1,27 @@
+XY Movement,NC
+XY Stop,NC
+Contact,-roll orientation
+Z Ne,C
+-rollRotation,C
+Z Po,C
+No contact,-yaw orientation
++rollRotation,NC
+Z St,NC
+Z Ne,NC
+-rollRotation,NC
+Z St,NC
+Z Po,NC
++rollRotation,NC
+Z St,NC
+Z Ne,NC
+-rollRotation,NC
+Z Po,NC
++rollRotation,NC
+Z St,NC
+Z Ne,NC
+Z St,NC
+-rollRotation,NC
+XY Movement,NC
+Z Po,NC
++rollRotation,NC
+Z St,NC

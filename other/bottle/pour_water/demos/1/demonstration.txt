@@ -1,0 +1,4 @@
+rotation,NC
+Contact,+yaw orientation
+rotation,C
+No contact,-pitch orientation

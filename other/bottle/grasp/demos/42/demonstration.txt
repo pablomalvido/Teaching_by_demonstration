@@ -1,0 +1,9 @@
+stop,NC
+movement,NC
+stop,NC
+Contact,+pitch orientation
+movement,C
+stop,C
+No contact,+pitch orientation
+Contact,+pitch orientation
+No contact,+pitch orientation

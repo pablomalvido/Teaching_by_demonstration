@@ -1,0 +1,7 @@
+Z Ne,NC
+XY Movement,NC
+Z Po,NC
+Z St,NC
+XY Stop,NC
+Closing,+pitch orientation
+Stop rot at +pitch orientation,NC

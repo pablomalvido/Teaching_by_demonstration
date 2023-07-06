@@ -1,0 +1,10 @@
+rotation,C
+Closing,+yaw orientation
+Opening,+yaw orientation
+Opening,+yaw orientation
+rotation,C
+Closing,+pitch orientation
+Opening,+pitch orientation
+Closing,+pitch orientation
+Opening,+pitch orientation
+Closing,+pitch orientation

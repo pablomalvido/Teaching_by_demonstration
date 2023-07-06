@@ -1,0 +1,6 @@
+-yawRotation,C
+Z Po,C
+Stop rot at -roll orientation,C
++yawRotation,C
+Z Ne,C
+No contact,-roll orientation

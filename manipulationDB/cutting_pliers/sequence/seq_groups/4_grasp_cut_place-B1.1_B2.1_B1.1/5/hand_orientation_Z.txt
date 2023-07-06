@@ -1,0 +1,7 @@
+0.000288963317871:+yaw orientation long
+2.94471693039:+roll orientation
+3.69669699669:-yaw orientation
+4.44874095917:Random orientation
+4.7492890358:-roll orientation
+7.45755195618:+pitch orientation
+9.11441111565:+yaw orientation long

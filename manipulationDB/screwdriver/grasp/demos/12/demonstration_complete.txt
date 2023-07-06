@@ -1,0 +1,13 @@
+Z Ne,NC
+XY Movement,NC
+Opening,+yaw orientation
+XY Stop,NC
+-yawRotation,NC
+Closing,+yaw orientation
+Z St,NC
+Z Po,NC
+XY Movement,NC
+Contact,+yaw orientation
+XY Stop,C
+Z St,C
++yawRotation,C

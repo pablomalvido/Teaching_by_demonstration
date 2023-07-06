@@ -1,0 +1,6 @@
+Opening,+yaw orientation
+Closing,+yaw orientation
+Opening,-roll orientation
+Closing,-roll orientation
+Opening,+yaw orientation
+Stop rot at +yaw orientation,NC

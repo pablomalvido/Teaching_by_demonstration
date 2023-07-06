@@ -1,0 +1,6 @@
+Opening,+yaw orientation
+Z Ne,NC
+Z St,NC
+Closing,+yaw orientation
+-rollRotation,NC
+Opening,+pitch orientation

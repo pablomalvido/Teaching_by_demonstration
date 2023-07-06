@@ -1,0 +1,2 @@
+Opening,+yaw orientation
+Stop rot at +yaw orientation,NC

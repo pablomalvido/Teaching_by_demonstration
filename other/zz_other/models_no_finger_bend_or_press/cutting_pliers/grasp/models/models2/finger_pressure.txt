@@ -1,0 +1,10 @@
+Start:
+1.0,
+0.0,
+Transition:
+0.0,
+-
+Map:
+index0-->1,:0
+n_states:
+0

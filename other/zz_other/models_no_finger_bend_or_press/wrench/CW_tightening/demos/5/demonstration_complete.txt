@@ -1,0 +1,34 @@
+XY Movement,C
+-yawRotation,C
+No contact,+yaw orientation
+XY Stop,NC
+XY Movement,NC
++yawRotation,NC
+Contact,+yaw orientation
+XY Stop,C
+Stop rot at +yaw orientation,C
+XY Movement,C
+No contact,+roll orientation
+-rollRotation,NC
+XY Stop,NC
+XY Movement,NC
+Contact,+yaw orientation
++rollRotation,C
+XY Stop,C
+XY Movement,C
+No contact,+yaw orientation
+XY Stop,NC
+XY Movement,NC
+-rollRotation,NC
++yawRotation,NC
+XY Stop,NC
+XY Movement,NC
+-yawRotation,NC
+XY Stop,NC
+-rollRotation,NC
+Stop rot at +yaw orientation,NC
+XY Movement,NC
++yawRotation,NC
+XY Stop,NC
+Z St,NC
+Stop rot at +yaw orientation,NC

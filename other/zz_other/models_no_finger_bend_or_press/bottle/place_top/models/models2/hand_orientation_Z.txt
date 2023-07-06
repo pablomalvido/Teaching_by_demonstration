@@ -1,0 +1,15 @@
+Start:
+0.851851851852,0.148148148148,
+0.0,0.0,
+Transition:
+0.0,0.0,
+0.0,0.0,
+-
+0.0,0.0,
+0.0,0.0,
+-
+Map:
++yaworientationlong:1
++yaworientation:0
+n_states:
+1

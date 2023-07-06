@@ -1,0 +1,6 @@
+Z Ne,C
+Z St,C
+No contact,Random orientation
+Z Po,NC
++pitchRotation,NC
+Z St,NC

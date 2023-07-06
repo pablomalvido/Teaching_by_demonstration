@@ -1,0 +1,6 @@
+Z Ne,NC
+Z St,NC
+Z Po,NC
+Contact,+roll orientation
+Z St,NC
+Stop rot at +roll orientation,C

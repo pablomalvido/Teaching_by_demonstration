@@ -1,0 +1,6 @@
+7.48634338379e-05:No
+1.13810896873:+pitchRotation
+1.28855490685:-pitchRotation
+2.34237885475:-rollRotation
+3.0949909687:No
+8.81288385391:+pitchRotation
